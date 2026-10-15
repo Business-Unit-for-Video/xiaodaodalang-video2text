@@ -296,6 +296,10 @@ def write_error_file(item: Dict, err: Exception):
     atomic_write_text(path, body)
 
 
+class MissingChannelTab(RuntimeError):
+    """YouTube explicitly reports that this channel has no requested tab."""
+
+
 def fetch_tab_entries(tab_url: str, use_cookies: bool) -> List[Dict]:
     tab_url = clean_url(tab_url)
     cmd = ["yt-dlp", "--remote-components", "ejs:github"]
@@ -308,6 +312,10 @@ def fetch_tab_entries(tab_url: str, use_cookies: bool) -> List[Dict]:
 
     raw = (result.stdout or "").strip()
     if result.returncode != 0 or not raw:
+        requested_tab = urlsplit(tab_url).path.rstrip("/").rsplit("/", 1)[-1]
+        absent_pattern = rf"\bdoes not have (?:a|an) {re.escape(requested_tab)} tab\b"
+        if result.returncode != 0 and re.search(absent_pattern, result.stderr or "", re.IGNORECASE):
+            raise MissingChannelTab(f"channel does not have a {requested_tab} tab")
         raise RuntimeError(f"cannot scan {tab_url}: {(result.stderr or '')[-1200:]}")
 
     try:
@@ -321,17 +329,11 @@ def fetch_tab_entries(tab_url: str, use_cookies: bool) -> List[Dict]:
 
 
 def build_item_from_entry(entry: Dict, tab: str) -> Optional[Dict]:
-    video_id = (entry.get("id") or "").strip()
-    if not video_id:
+    video_id = str(entry.get("id") or "").strip()
+    if not re.fullmatch(r"[A-Za-z0-9_-]{11}", video_id):
         return None
 
-    raw_url = entry.get("url") or entry.get("webpage_url") or ""
-    url = clean_url(raw_url)
-
-    if isinstance(url, str) and url.startswith("/watch"):
-        url = "https://www.youtube.com" + url
-    if not url or (not url.startswith("http://") and not url.startswith("https://")):
-        url = f"https://www.youtube.com/watch?v={video_id}"
+    url = f"https://www.youtube.com/watch?v={video_id}"
 
     title = (entry.get("title") or video_id).strip()
 
@@ -364,7 +366,7 @@ def extract_queue_from_channel() -> List[Dict]:
     for tab in ("videos", "streams", "shorts"):
         try:
             scanned_tabs.append((tab, fetch_tab_entries(f"{base}/{tab}", use_cookies=False)))
-        except (RuntimeError, subprocess.TimeoutExpired) as exc:
+        except MissingChannelTab as exc:
             failures.append(str(exc))
             log(f"[warn] {tab} tab unavailable: {exc}")
     if not scanned_tabs:
@@ -451,6 +453,10 @@ def download_audio(video_url: str, video_id: str) -> Path:
     add_cookie_arg(base_cmd)
     download_args = [
         "--no-playlist",
+        "--match-filter", "availability = public & !is_live & !is_upcoming",
+        "--socket-timeout", "30",
+        "--retries", "2",
+        "--fragment-retries", "2",
         # Some YouTube clients expose only a combined format.  Keep the
         # audio-only preference, but allow yt-dlp to select a combined stream
         # and extract its audio when no separate audio URL is available.

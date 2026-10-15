@@ -162,7 +162,17 @@ def normalize(path: Path) -> str:
                 lines.extend(f".youtube.com\tTRUE\t/\tTRUE\t0\t{name}\t{value}" for name, value in pairs)
                 path.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
                 return f"converted-header:{len(pairs)}"
-            return "unsupported"
+            objects = []
+            for line in raw_lines:
+                try:
+                    item = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                if isinstance(item, dict):
+                    objects.append(item)
+            if not objects:
+                return "unsupported"
+            data = objects
 
     # A JSON secret can itself contain a JSON string, or be newline-delimited
     # cookie objects. Both forms are common in browser export tools.
