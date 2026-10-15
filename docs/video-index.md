@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 21，待转写 212，失败待处理 0，文件不完整 0。
+共 233 条：已转写 22，待转写 211，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -29,7 +29,7 @@
 | [【小岛浪吹】中国三位大网红接连被封，到底发生了什么 \| 户晨风 \| 蓝战非 \| 张雪峰 \| 高收入 \| 苹果 \| 安卓 \| 生育 \| 武统台湾](https://www.youtube.com/watch?v=kvk_TRbqQtI) | 27:08 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_kvk_TRbqQtI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_kvk_TRbqQtI.txt) |
 | [【小岛浪吹】为什么中国能够禁枪成功，美国却不能](https://www.youtube.com/watch?v=PKLzSouO-Lo) | 27:48 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_PKLzSouO-Lo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_PKLzSouO-Lo.txt) |
 | [全网首发，硬核抽象科普，洗脚后的难忘生活（警告！请勿在公共场合观看）](https://www.youtube.com/watch?v=Oi1FSooVJ-M) | 48:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Oi1FSooVJ-M.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Oi1FSooVJ-M.txt) |
-| [【小岛浪吹】为什么大部分中国人活的比较累](https://www.youtube.com/watch?v=uV8ea0IJn-E) | 27:15 | 待转写 | — | — |
+| [【小岛浪吹】为什么大部分中国人活的比较累](https://www.youtube.com/watch?v=uV8ea0IJn-E) | 27:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_uV8ea0IJn-E.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_uV8ea0IJn-E.txt) |
 | [【小岛浪吹】一个视频搞清楚大跃进与大饥荒](https://www.youtube.com/watch?v=lGTpfbXEejY) | 28:28 | 待转写 | — | — |
 | [【小岛浪吹】女大生白睡老外遭开除，猛男因口角怒跪懵逼老外 \| 大连工业大学 \| 宙斯 \| 东北 \| 性交易 \| 打胎 \| 计划生育 \| 性压抑](https://www.youtube.com/watch?v=eBGh3wo7db4) | 21:11 | 待转写 | — | — |
 | [【小岛浪吹】30分钟只讲一件事，大跃进是如何出现的](https://www.youtube.com/watch?v=WeuOL97cxPw) | 30:37 | 待转写 | — | — |
