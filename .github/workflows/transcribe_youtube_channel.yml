@@ -1,0 +1,124 @@
+name: 转写 YouTube 频道
+
+on:
+  workflow_dispatch:
+    inputs:
+      whisper_model:
+        description: "Whisper 模型：small 较快，medium 较精细"
+        type: choice
+        options: [small, medium]
+        default: small
+      force_retranscribe:
+        description: "重试失败视频，已完成视频仍跳过"
+        type: boolean
+        default: false
+      continue_chain:
+        description: "当前视频成功后，自动继续下一个"
+        type: boolean
+        default: true
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: transcribe-channel-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  transcribe-one:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      YOUTUBE_CHANNEL_URL: "https://www.youtube.com/@xiaodaodalang"
+      DESTINATION: "xiaodaodalang"
+      YOUTUBE_INCLUDE_MEMBERS: "false"
+      YOUTUBE_COOKIES_FILE: youtube_cookies.txt
+      WHISPER_MODEL: ${{ inputs.whisper_model || 'small' }}
+      FORCE_RETRANSCRIBE: ${{ inputs.force_retranscribe || false }}
+      WHISPER_DEVICE: cpu
+      WHISPER_COMPUTE_TYPE: int8
+      WHISPER_LANGUAGE: zh
+      WHISPER_INITIAL_PROMPT: 请将结果转录为简体中文。
+      YOUTUBE_FALLBACK_CLIENTS: default,web_safari,web_embedded,android
+      AUDIO_FORMAT: mp3
+      AUDIO_QUALITY: "7"
+      BEAM_SIZE: "1"
+      VAD_FILTER: "1"
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - name: 获取仓库
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 清理旧续跑标记
+        run: rm -f "state_youtube/${DESTINATION}/continue.flag"
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装 Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: 安装 FFmpeg 与 Python 依赖
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install --upgrade pip
+          python -m pip install --upgrade -r requirements.txt
+          yt-dlp --version
+          deno --version
+
+      - name: 准备 YouTube Cookie
+        env:
+          YOUTUBE_COOKIE_EXPORT: ${{ secrets.YOUTUBE_SOURCE_COOKIE_FILE_VIDEO2TEXT }}
+        run: python scripts/prepare_youtube_cookies.py
+
+      - name: 配置提交身份
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: 转写一条视频并保存结果
+        id: transcribe
+        run: python scripts/transcribe_youtube_channel.py
+
+      - name: 显示进度
+        if: always()
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          path = Path("state_youtube") / os.environ["DESTINATION"] / "progress.json"
+          if path.exists():
+              print(path.read_text(encoding="utf-8"))
+          else:
+              print("本次未生成转录进度，请查看前面失败的步骤。")
+          PY
+
+      - name: 成功后继续下一条
+        if: success() && steps.transcribe.outcome == 'success' && (github.event_name == 'schedule' || inputs.continue_chain)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -f "state_youtube/${DESTINATION}/continue.flag" ]; then
+            gh workflow run transcribe_youtube_channel.yml \
+              --ref "${GITHUB_REF_NAME}" \
+              -f whisper_model="${WHISPER_MODEL}" \
+              -f force_retranscribe=false \
+              -f continue_chain=true
+          else
+            echo "没有待转写条目，停止续跑。"
+          fi
+
+      - name: 清理临时 Cookie
+        if: always()
+        run: rm -f youtube_cookies.txt
+
