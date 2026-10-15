@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 87，待转写 146，失败待处理 0，文件不完整 0。
+共 233 条：已转写 88，待转写 145，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -95,7 +95,7 @@
 | [【小岛浪吹】官员的道德更重要，还是能力更重要，中国是否应该严惩婚外情高官](https://www.youtube.com/watch?v=3tmnYuJ9e0g) | 19:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_3tmnYuJ9e0g.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_3tmnYuJ9e0g.txt) |
 | [【小岛浪吹】台湾人应该感谢日本的殖民吗？](https://www.youtube.com/watch?v=fEZ2MRXmufQ) | 22:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_fEZ2MRXmufQ.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_fEZ2MRXmufQ.txt) |
 | [【小岛浪吹】有史以来最靠猜的一期，普里戈任造反的前因后果，以及俄乌战争后续走势](https://www.youtube.com/watch?v=3rG2eQGc9eE) | 24:48 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_3rG2eQGc9eE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_3rG2eQGc9eE.txt) |
-| [【小岛浪吹】中国C919大飞机到底怎么样，美国为什么没有制裁？](https://www.youtube.com/watch?v=q97miQIelkk) | 21:44 | 待转写 | — | — |
+| [【小岛浪吹】中国C919大飞机到底怎么样，美国为什么没有制裁？](https://www.youtube.com/watch?v=q97miQIelkk) | 21:44 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_q97miQIelkk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_q97miQIelkk.txt) |
 | [【小岛浪吹】为什么香港人越来越歧视大陆人？](https://www.youtube.com/watch?v=Y7u3rvW1i64) | 21:01 | 待转写 | — | — |
 | [【小岛浪吹】House辱军了吗？罚的合理吗？聊聊为什么我觉得中国军队处于弱势，以及未来中国军队可能的走向](https://www.youtube.com/watch?v=FiHs3CtageU) | 19:15 | 待转写 | — | — |
 | [【小岛浪吹】最希望被打脸的一期，提前一年预测郭台铭，以及国民党2024大选结果](https://www.youtube.com/watch?v=1S2QUQf1AMk) | 22:36 | 待转写 | — | — |
