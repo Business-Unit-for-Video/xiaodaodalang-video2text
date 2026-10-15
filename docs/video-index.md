@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 95，待转写 138，失败待处理 0，文件不完整 0。
+共 233 条：已转写 96，待转写 137，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -103,7 +103,7 @@
 | [【小岛浪吹】台湾到底属于谁（中初）：真正的台独，台湾民主国的建立，为什么台湾人能逼到日本想出售台湾，为什么台湾人最后又屈服了](https://www.youtube.com/watch?v=Bg4MNjtFyII) | 21:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Bg4MNjtFyII.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Bg4MNjtFyII.txt) |
 | [【小岛浪吹】台湾到底属于谁（上篇）：明朝和清朝对台湾的改变，原住民和汉人谁是真正的台湾人](https://www.youtube.com/watch?v=0kutiGMgm2c) | 23:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_0kutiGMgm2c.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_0kutiGMgm2c.txt) |
 | [【小岛浪吹】韩日关系又双叒叕改善了？韩日到底是怎么搞上的，中国扮演了什么样的角色](https://www.youtube.com/watch?v=X4p7-l52GBo) | 25:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_X4p7-l52GBo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_X4p7-l52GBo.txt) |
-| [【小岛浪吹】正国级牛B：聊聊团派终代目---李克强总理的政治生涯](https://www.youtube.com/watch?v=VOsx3IJNApg) | 22:15 | 待转写 | — | — |
+| [【小岛浪吹】正国级牛B：聊聊团派终代目---李克强总理的政治生涯](https://www.youtube.com/watch?v=VOsx3IJNApg) | 22:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_VOsx3IJNApg.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_VOsx3IJNApg.txt) |
 | [【小岛浪吹】远华案！中国建国后最大的走私集团，崛起与没落的过程以及前因后果 @赖昌星](https://www.youtube.com/watch?v=cde8EzM1UvM) | 26:31 | 待转写 | — | — |
 | [【小岛浪吹】正国级牛B：从三角债问题，猜猜朱镕基会怎么解决中国现在的房地产债务和城投债？](https://www.youtube.com/watch?v=0pjlHYCJS5A) | 23:18 | 待转写 | — | — |
 | [【小岛浪吹】（更新：马云回国了？）多名中国经济学家围攻爱国自媒体司马南，中国对民营企业的态度变了吗？未来中国会如何解决目前的经济困局](https://www.youtube.com/watch?v=sxSnGjSWQnw) | 20:53 | 待转写 | — | — |
