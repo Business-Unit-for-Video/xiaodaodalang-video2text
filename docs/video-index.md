@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 15，待转写 218，失败待处理 0，文件不完整 0。
+共 233 条：已转写 16，待转写 217，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -23,7 +23,7 @@
 | [【小岛浪吹】转折点！美国闪击委内瑞拉](https://www.youtube.com/watch?v=r1foKjp5bno) | 26:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_r1foKjp5bno.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_r1foKjp5bno.txt) |
 | [【小岛求助】百万大v的现身说法，说说共产党是怎么抢走我的财产的](https://www.youtube.com/watch?v=wx82fbjMYAw) | 28:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_wx82fbjMYAw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_wx82fbjMYAw.txt) |
 | [【小岛不亏】终于做出了这个重大决定！公开我的投资账户，2025花费零精力，我赚/亏了多少钱](https://www.youtube.com/watch?v=tRBsPI6OHvM) | 24:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_tRBsPI6OHvM.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_tRBsPI6OHvM.txt) |
-| [【小岛浪吹】台湾有事，就是日本有事，中日之战已经开始了](https://www.youtube.com/watch?v=WDSwyu53iZE) | 25:47 | 待转写 | — | — |
+| [【小岛浪吹】台湾有事，就是日本有事，中日之战已经开始了](https://www.youtube.com/watch?v=WDSwyu53iZE) | 25:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_WDSwyu53iZE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_WDSwyu53iZE.txt) |
 | [【小岛浪吹】美国累了，G2双极时代到来，让中美一起伟大](https://www.youtube.com/watch?v=BUbEBE5RkIU) | 27:54 | 待转写 | — | — |
 | [【小岛浪吹】中美区块链路线之争，谁才是最后赢家](https://www.youtube.com/watch?v=Y2wdtKHg-kc) | 30:27 | 待转写 | — | — |
 | [【小岛浪吹】中国三位大网红接连被封，到底发生了什么 \| 户晨风 \| 蓝战非 \| 张雪峰 \| 高收入 \| 苹果 \| 安卓 \| 生育 \| 武统台湾](https://www.youtube.com/watch?v=kvk_TRbqQtI) | 27:08 | 待转写 | — | — |
