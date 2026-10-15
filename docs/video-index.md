@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 23，待转写 210，失败待处理 0，文件不完整 0。
+共 233 条：已转写 24，待转写 209，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -31,7 +31,7 @@
 | [全网首发，硬核抽象科普，洗脚后的难忘生活（警告！请勿在公共场合观看）](https://www.youtube.com/watch?v=Oi1FSooVJ-M) | 48:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Oi1FSooVJ-M.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Oi1FSooVJ-M.txt) |
 | [【小岛浪吹】为什么大部分中国人活的比较累](https://www.youtube.com/watch?v=uV8ea0IJn-E) | 27:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_uV8ea0IJn-E.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_uV8ea0IJn-E.txt) |
 | [【小岛浪吹】一个视频搞清楚大跃进与大饥荒](https://www.youtube.com/watch?v=lGTpfbXEejY) | 28:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_lGTpfbXEejY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_lGTpfbXEejY.txt) |
-| [【小岛浪吹】女大生白睡老外遭开除，猛男因口角怒跪懵逼老外 \| 大连工业大学 \| 宙斯 \| 东北 \| 性交易 \| 打胎 \| 计划生育 \| 性压抑](https://www.youtube.com/watch?v=eBGh3wo7db4) | 21:11 | 待转写 | — | — |
+| [【小岛浪吹】女大生白睡老外遭开除，猛男因口角怒跪懵逼老外 \| 大连工业大学 \| 宙斯 \| 东北 \| 性交易 \| 打胎 \| 计划生育 \| 性压抑](https://www.youtube.com/watch?v=eBGh3wo7db4) | 21:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_eBGh3wo7db4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_eBGh3wo7db4.txt) |
 | [【小岛浪吹】30分钟只讲一件事，大跃进是如何出现的](https://www.youtube.com/watch?v=WeuOL97cxPw) | 30:37 | 待转写 | — | — |
 | [【小岛浪吹】中国车圈宫斗，华为爆踩小米，长城怒怼车圈恒大，中国的新能源汽车业要变天了？](https://www.youtube.com/watch?v=dVa6B301TLE) | 24:37 | 待转写 | — | — |
 | [【小岛浪吹】川普为什么这么快就与中国议和](https://www.youtube.com/watch?v=7SbmS8vWehE) | 26:01 | 待转写 | — | — |
