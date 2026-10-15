@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 17，待转写 216，失败待处理 0，文件不完整 0。
+共 233 条：已转写 18，待转写 215，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -25,7 +25,7 @@
 | [【小岛不亏】终于做出了这个重大决定！公开我的投资账户，2025花费零精力，我赚/亏了多少钱](https://www.youtube.com/watch?v=tRBsPI6OHvM) | 24:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_tRBsPI6OHvM.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_tRBsPI6OHvM.txt) |
 | [【小岛浪吹】台湾有事，就是日本有事，中日之战已经开始了](https://www.youtube.com/watch?v=WDSwyu53iZE) | 25:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_WDSwyu53iZE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_WDSwyu53iZE.txt) |
 | [【小岛浪吹】美国累了，G2双极时代到来，让中美一起伟大](https://www.youtube.com/watch?v=BUbEBE5RkIU) | 27:54 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_BUbEBE5RkIU.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_BUbEBE5RkIU.txt) |
-| [【小岛浪吹】中美区块链路线之争，谁才是最后赢家](https://www.youtube.com/watch?v=Y2wdtKHg-kc) | 30:27 | 待转写 | — | — |
+| [【小岛浪吹】中美区块链路线之争，谁才是最后赢家](https://www.youtube.com/watch?v=Y2wdtKHg-kc) | 30:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Y2wdtKHg-kc.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Y2wdtKHg-kc.txt) |
 | [【小岛浪吹】中国三位大网红接连被封，到底发生了什么 \| 户晨风 \| 蓝战非 \| 张雪峰 \| 高收入 \| 苹果 \| 安卓 \| 生育 \| 武统台湾](https://www.youtube.com/watch?v=kvk_TRbqQtI) | 27:08 | 待转写 | — | — |
 | [【小岛浪吹】为什么中国能够禁枪成功，美国却不能](https://www.youtube.com/watch?v=PKLzSouO-Lo) | 27:48 | 待转写 | — | — |
 | [全网首发，硬核抽象科普，洗脚后的难忘生活（警告！请勿在公共场合观看）](https://www.youtube.com/watch?v=Oi1FSooVJ-M) | 48:22 | 待转写 | — | — |
