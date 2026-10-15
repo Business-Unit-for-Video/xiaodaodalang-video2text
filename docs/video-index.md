@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 33，待转写 200，失败待处理 0，文件不完整 0。
+共 233 条：已转写 34，待转写 199，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -41,7 +41,7 @@
 | [【小岛浪吹】如何成为大V，为什么大V迟早都会陨落，为什么大V都有病！](https://www.youtube.com/watch?v=YfL0pnqX4rk) | 23:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_YfL0pnqX4rk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_YfL0pnqX4rk.txt) |
 | [【小岛浪吹】泽连斯基白宫被川宝羞辱，美国欲断援，乌克兰还有救吗](https://www.youtube.com/watch?v=_rUNSR8a14Q) | 25:45 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang__rUNSR8a14Q.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang__rUNSR8a14Q.txt) |
 | [【小岛浪吹】中国男人的地位为什么这么低](https://www.youtube.com/watch?v=aaQWaoz1o4w) | 25:24 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_aaQWaoz1o4w.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_aaQWaoz1o4w.txt) |
-| [【小岛浪吹】新年新气象，美国还有多久崩溃 \| TikTok \| DeepSeek \| 加拿大 \| 格陵兰岛 \| 光刻机](https://www.youtube.com/watch?v=doZJWP-IozI) | 24:02 | 待转写 | — | — |
+| [【小岛浪吹】新年新气象，美国还有多久崩溃 \| TikTok \| DeepSeek \| 加拿大 \| 格陵兰岛 \| 光刻机](https://www.youtube.com/watch?v=doZJWP-IozI) | 24:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_doZJWP-IozI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_doZJWP-IozI.txt) |
 | [【小岛浪吹】开大了！精准预言中共还能撑多久才灭亡](https://www.youtube.com/watch?v=FiadsjVKEwk) | 27:38 | 待转写 | — | — |
 | [【小岛浪吹】最值得南韩学习的独裁者量产流程，胖族崛起之二胖的征程 ｜ 抗美援朝 ｜ 苏联剥削中国 ｜拍电影 ｜ 剔除共产主义](https://www.youtube.com/watch?v=b852l064Xpo) | 25:40 | 待转写 | — | — |
 | [【小岛浪吹】拜登大赦亲儿子，引全网热骂，为什么反华的川普在华人里的名声反而越来越好了](https://www.youtube.com/watch?v=CbESz3S6sVE) | 22:29 | 待转写 | — | — |
