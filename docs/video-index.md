@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 100，待转写 133，失败待处理 0，文件不完整 0。
+共 233 条：已转写 101，待转写 132，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -108,7 +108,7 @@
 | [【小岛浪吹】正国级牛B：从三角债问题，猜猜朱镕基会怎么解决中国现在的房地产债务和城投债？](https://www.youtube.com/watch?v=0pjlHYCJS5A) | 23:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_0pjlHYCJS5A.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_0pjlHYCJS5A.txt) |
 | [【小岛浪吹】（更新：马云回国了？）多名中国经济学家围攻爱国自媒体司马南，中国对民营企业的态度变了吗？未来中国会如何解决目前的经济困局](https://www.youtube.com/watch?v=sxSnGjSWQnw) | 20:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_sxSnGjSWQnw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_sxSnGjSWQnw.txt) |
 | [【小岛浪吹】中国现代经济奠基人，“经济沙皇”朱镕基是如何从右派进入中国权利核心的](https://www.youtube.com/watch?v=FhHa-hEdAAY) | 23:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_FhHa-hEdAAY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_FhHa-hEdAAY.txt) |
-| [【小岛浪吹】聊聊中国在疫情放开阶段的一些问题，以及为什么清零派很难赢得了共存派](https://www.youtube.com/watch?v=oVeHIU5t0dc) | 23:53 | 待转写 | — | — |
+| [【小岛浪吹】聊聊中国在疫情放开阶段的一些问题，以及为什么清零派很难赢得了共存派](https://www.youtube.com/watch?v=oVeHIU5t0dc) | 23:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_oVeHIU5t0dc.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_oVeHIU5t0dc.txt) |
 | [【小岛浪吹】房住不炒还继续搞吗？大胆预测下未来中国的房价](https://www.youtube.com/watch?v=Irjkocut2N4) | 20:30 | 待转写 | — | — |
 | [【小岛浪吹】中国防疫政策为什么突然转弯，上海封城时期为什么不选择共存](https://www.youtube.com/watch?v=eHUFCrgos34) | 18:18 | 待转写 | — | — |
 | [【小岛浪吹】终章：江泽民， 是如何改变中国的](https://www.youtube.com/watch?v=ADp3WmFtyFA) | 23:41 | 待转写 | — | — |
