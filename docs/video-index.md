@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 104，待转写 129，失败待处理 0，文件不完整 0。
+共 233 条：已转写 105，待转写 128，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -112,7 +112,7 @@
 | [【小岛浪吹】房住不炒还继续搞吗？大胆预测下未来中国的房价](https://www.youtube.com/watch?v=Irjkocut2N4) | 20:30 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Irjkocut2N4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Irjkocut2N4.txt) |
 | [【小岛浪吹】中国防疫政策为什么突然转弯，上海封城时期为什么不选择共存](https://www.youtube.com/watch?v=eHUFCrgos34) | 18:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_eHUFCrgos34.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_eHUFCrgos34.txt) |
 | [【小岛浪吹】终章：江泽民， 是如何改变中国的](https://www.youtube.com/watch?v=ADp3WmFtyFA) | 23:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ADp3WmFtyFA.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ADp3WmFtyFA.txt) |
-| [【小岛浪吹】聊聊江泽民是如何通过六四，最终成为中国最高领导人的](https://www.youtube.com/watch?v=TEBbedt7FPk) | 22:06 | 待转写 | — | — |
+| [【小岛浪吹】聊聊江泽民是如何通过六四，最终成为中国最高领导人的](https://www.youtube.com/watch?v=TEBbedt7FPk) | 22:06 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_TEBbedt7FPk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_TEBbedt7FPk.txt) |
 | [【小岛浪吹】浅浅的聊一下二十大结果，以及为什么胡锦涛的团派不是习派的对手](https://www.youtube.com/watch?v=p8aT76qxaDk) | 22:12 | 待转写 | — | — |
 | [【小岛浪吹】蛤王入沪成蛟龙之势的最关键战役--86学潮，带大家了解下胡耀邦是如何下台，江泽民又是如何简在帝心得](https://www.youtube.com/watch?v=5ND5UKK83-o) | 20:20 | 待转写 | — | — |
 | [【小岛浪吹】聊聊中国在俄罗斯身上一共失去了多少土地](https://www.youtube.com/watch?v=rG4UCc5eKrU) | 20:52 | 待转写 | — | — |
