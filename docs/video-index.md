@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 43，待转写 190，失败待处理 0，文件不完整 0。
+共 233 条：已转写 44，待转写 189，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -51,7 +51,7 @@
 | [【小岛浪吹】中国的股市是如何发展起来的，如何能够在A股稳定赚钱（祈祷我的反指撬起大A）](https://www.youtube.com/watch?v=1kYB4xQwsR4) | 24:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_1kYB4xQwsR4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_1kYB4xQwsR4.txt) |
 | [【小岛浪吹】中国股市暴涨，到底发生了什么，能不能持续？](https://www.youtube.com/watch?v=O1-JtP1VewI) | 23:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_O1-JtP1VewI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_O1-JtP1VewI.txt) |
 | [【小岛浪吹】救市后的中国经济到底如何，习近平要负多大的责任 \| 房地产 \| 内卷 \| 移民 \| 清零 \| 计划生育 \| 延迟退休 \| 无效产能 \| 李强 \|  中医治国](https://www.youtube.com/watch?v=aVqZ--X-7DI) | 22:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_aVqZ--X-7DI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_aVqZ--X-7DI.txt) |
-| [【小岛浪吹】中国曾经最富的经济特区，是怎么废掉的  \| 汕头 \| 特区 \| 迎宾馆 \| 火烧钦差 \| 解放军工程兵 \| 走私 \| 偷税 \|  海外汇款](https://www.youtube.com/watch?v=1ES0ExXIiuE) | 23:42 | 待转写 | — | — |
+| [【小岛浪吹】中国曾经最富的经济特区，是怎么废掉的  \| 汕头 \| 特区 \| 迎宾馆 \| 火烧钦差 \| 解放军工程兵 \| 走私 \| 偷税 \|  海外汇款](https://www.youtube.com/watch?v=1ES0ExXIiuE) | 23:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_1ES0ExXIiuE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_1ES0ExXIiuE.txt) |
 | [【小岛浪吹】黑神话：悟空崛起，中国国产游戏路在何方   \| 恶评 \| 台湾三立 \| 腾讯 \| 中国文化 \| 政策扶持 \|  投资](https://www.youtube.com/watch?v=Bwm5oNcJupk) | 21:03 | 待转写 | — | — |
 | [【小岛浪吹】毛泽东是如何统治井冈山，又是如何丢掉井冈山的  \| 土改 \| 权力斗争 \| 党争 \| 共产国际 \| 上海党中央](https://www.youtube.com/watch?v=k284kqqAH4c) | 25:43 | 待转写 | — | — |
 | [【小岛浪吹】爽文男主，共产国际曾最想开除的异端-----毛泽东，崛起的最关键一步 \| 国共分裂 \| 井冈山 \|  占山为王 \| 共产国际/周恩来骂毛泽东](https://www.youtube.com/watch?v=L74M8p4_TuI) | 24:12 | 待转写 | — | — |
