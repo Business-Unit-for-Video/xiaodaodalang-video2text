@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 83，待转写 150，失败待处理 0，文件不完整 0。
+共 233 条：已转写 84，待转写 149，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -91,7 +91,7 @@
 | [【小岛浪吹】华为到底突破了没有，中国的半导体行业正处于什么状态](https://www.youtube.com/watch?v=lzzUs0-NcYY) | 20:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_lzzUs0-NcYY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_lzzUs0-NcYY.txt) |
 | [【小岛浪吹】为什么中国的经济不行了？](https://www.youtube.com/watch?v=z9Q4nP15kxM) | 22:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_z9Q4nP15kxM.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_z9Q4nP15kxM.txt) |
 | [【小岛浪吹】中国为什么又开始打击医疗腐败了，这么多年来医疗到底改革了什么](https://www.youtube.com/watch?v=kqPxgv_oOSo) | 23:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_kqPxgv_oOSo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_kqPxgv_oOSo.txt) |
-| [【小岛浪吹】中国经济下滑，年轻人是否还继续支持共产党](https://www.youtube.com/watch?v=PruqQnQYPZQ) | 21:05 | 待转写 | — | — |
+| [【小岛浪吹】中国经济下滑，年轻人是否还继续支持共产党](https://www.youtube.com/watch?v=PruqQnQYPZQ) | 21:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_PruqQnQYPZQ.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_PruqQnQYPZQ.txt) |
 | [【小岛浪吹】官员的道德更重要，还是能力更重要，中国是否应该严惩婚外情高官](https://www.youtube.com/watch?v=3tmnYuJ9e0g) | 19:53 | 待转写 | — | — |
 | [【小岛浪吹】台湾人应该感谢日本的殖民吗？](https://www.youtube.com/watch?v=fEZ2MRXmufQ) | 22:52 | 待转写 | — | — |
 | [【小岛浪吹】有史以来最靠猜的一期，普里戈任造反的前因后果，以及俄乌战争后续走势](https://www.youtube.com/watch?v=3rG2eQGc9eE) | 24:48 | 待转写 | — | — |
