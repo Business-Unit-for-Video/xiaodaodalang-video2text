@@ -2,14 +2,14 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 1，待转写 232，失败待处理 0，文件不完整 0。
+共 233 条：已转写 2，待转写 231，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
 | 视频 | 时长 | 状态 | 纯文本 | 时间戳文本 |
 |---|---:|---|---|---|
 | [【小岛浪吹】中国最贵电车刹车板三踩三断，谈谈为什么尊界的刹车必断，以及这里面的资本对抗和中国地方政府之间的竞争](https://www.youtube.com/watch?v=ZePPpQLAhcU) | 25:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ZePPpQLAhcU.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ZePPpQLAhcU.txt) |
-| [【小岛浪吹】读透十五五，让中国的顶级智库每五年带我们炒一次酣畅淋漓的股票](https://www.youtube.com/watch?v=ZrsBByfOvxI) | 28:05 | 待转写 | — | — |
+| [【小岛浪吹】读透十五五，让中国的顶级智库每五年带我们炒一次酣畅淋漓的股票](https://www.youtube.com/watch?v=ZrsBByfOvxI) | 28:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ZrsBByfOvxI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ZrsBByfOvxI.txt) |
 | [【小岛浪吹】中国未来五年会怎么走，详细分析近20年中国所有的五年计划（结构篇）](https://www.youtube.com/watch?v=jPSsn2IEoOA) | 31:50 | 待转写 | — | — |
 | [【小岛浪吹】一个视频讲清楚为什么美国人永远放不下伊朗，为什么伊朗必须反美](https://www.youtube.com/watch?v=ak8e5S9R1Qo) | 36:02 | 待转写 | — | — |
 | [【小岛浪吹】从阿嫲的情书到印加坡：一个华人多数国家的身份焦虑](https://www.youtube.com/watch?v=6tjGKAlczHs) | 26:33 | 待转写 | — | — |
