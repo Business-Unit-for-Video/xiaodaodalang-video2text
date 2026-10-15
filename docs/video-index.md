@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 90，待转写 143，失败待处理 0，文件不完整 0。
+共 233 条：已转写 91，待转写 142，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -98,7 +98,7 @@
 | [【小岛浪吹】中国C919大飞机到底怎么样，美国为什么没有制裁？](https://www.youtube.com/watch?v=q97miQIelkk) | 21:44 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_q97miQIelkk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_q97miQIelkk.txt) |
 | [【小岛浪吹】为什么香港人越来越歧视大陆人？](https://www.youtube.com/watch?v=Y7u3rvW1i64) | 21:01 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Y7u3rvW1i64.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Y7u3rvW1i64.txt) |
 | [【小岛浪吹】House辱军了吗？罚的合理吗？聊聊为什么我觉得中国军队处于弱势，以及未来中国军队可能的走向](https://www.youtube.com/watch?v=FiHs3CtageU) | 19:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_FiHs3CtageU.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_FiHs3CtageU.txt) |
-| [【小岛浪吹】最希望被打脸的一期，提前一年预测郭台铭，以及国民党2024大选结果](https://www.youtube.com/watch?v=1S2QUQf1AMk) | 22:36 | 待转写 | — | — |
+| [【小岛浪吹】最希望被打脸的一期，提前一年预测郭台铭，以及国民党2024大选结果](https://www.youtube.com/watch?v=1S2QUQf1AMk) | 22:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_1S2QUQf1AMk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_1S2QUQf1AMk.txt) |
 | [【小岛浪吹】中国鹰王卢沙野，能否代表中国的外交转向，谈谈多年来中国外交政策的变化](https://www.youtube.com/watch?v=bpje43q1cvg) | 24:06 | 待转写 | — | — |
 | [【小岛浪吹】台湾到底属于谁（中初）：真正的台独，台湾民主国的建立，为什么台湾人能逼到日本想出售台湾，为什么台湾人最后又屈服了](https://www.youtube.com/watch?v=Bg4MNjtFyII) | 21:49 | 待转写 | — | — |
 | [【小岛浪吹】台湾到底属于谁（上篇）：明朝和清朝对台湾的改变，原住民和汉人谁是真正的台湾人](https://www.youtube.com/watch?v=0kutiGMgm2c) | 23:34 | 待转写 | — | — |
