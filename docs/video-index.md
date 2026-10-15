@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 29，待转写 204，失败待处理 0，文件不完整 0。
+共 233 条：已转写 30，待转写 203，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -37,7 +37,7 @@
 | [【小岛浪吹】川普为什么这么快就与中国议和](https://www.youtube.com/watch?v=7SbmS8vWehE) | 26:01 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_7SbmS8vWehE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_7SbmS8vWehE.txt) |
 | [【小岛浪吹】山西大同案：为什么中国的婚姻如此扭曲](https://www.youtube.com/watch?v=D7dK3C1TB_U) | 24:00 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_D7dK3C1TB_U.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_D7dK3C1TB_U.txt) |
 | [【小岛浪吹】中美关税战开打，谁会是最后赢家，来聊聊一个小丑是如何削国家国运的](https://www.youtube.com/watch?v=MWgnx4uWSxc) | 24:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_MWgnx4uWSxc.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_MWgnx4uWSxc.txt) |
-| [【小岛浪吹】2025中国经济会怎么走 \| 两会 \| 司马南 \| 马云 \| 对外开放 \| 习近平 \| 李强 \| GDP目标 \| 消费刺激 \| 大放水](https://www.youtube.com/watch?v=VmPKOQliul0) | 25:40 | 待转写 | — | — |
+| [【小岛浪吹】2025中国经济会怎么走 \| 两会 \| 司马南 \| 马云 \| 对外开放 \| 习近平 \| 李强 \| GDP目标 \| 消费刺激 \| 大放水](https://www.youtube.com/watch?v=VmPKOQliul0) | 25:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_VmPKOQliul0.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_VmPKOQliul0.txt) |
 | [【小岛浪吹】如何成为大V，为什么大V迟早都会陨落，为什么大V都有病！](https://www.youtube.com/watch?v=YfL0pnqX4rk) | 23:55 | 待转写 | — | — |
 | [【小岛浪吹】泽连斯基白宫被川宝羞辱，美国欲断援，乌克兰还有救吗](https://www.youtube.com/watch?v=_rUNSR8a14Q) | 25:45 | 待转写 | — | — |
 | [【小岛浪吹】中国男人的地位为什么这么低](https://www.youtube.com/watch?v=aaQWaoz1o4w) | 25:24 | 待转写 | — | — |
