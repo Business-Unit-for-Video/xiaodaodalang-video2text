@@ -53,6 +53,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: main
 
       - name: 清理旧续跑标记
         run: rm -f "state_youtube/${DESTINATION}/continue.flag"
