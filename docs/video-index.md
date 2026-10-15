@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 85，待转写 148，失败待处理 0，文件不完整 0。
+共 233 条：已转写 86，待转写 147，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -93,7 +93,7 @@
 | [【小岛浪吹】中国为什么又开始打击医疗腐败了，这么多年来医疗到底改革了什么](https://www.youtube.com/watch?v=kqPxgv_oOSo) | 23:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_kqPxgv_oOSo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_kqPxgv_oOSo.txt) |
 | [【小岛浪吹】中国经济下滑，年轻人是否还继续支持共产党](https://www.youtube.com/watch?v=PruqQnQYPZQ) | 21:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_PruqQnQYPZQ.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_PruqQnQYPZQ.txt) |
 | [【小岛浪吹】官员的道德更重要，还是能力更重要，中国是否应该严惩婚外情高官](https://www.youtube.com/watch?v=3tmnYuJ9e0g) | 19:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_3tmnYuJ9e0g.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_3tmnYuJ9e0g.txt) |
-| [【小岛浪吹】台湾人应该感谢日本的殖民吗？](https://www.youtube.com/watch?v=fEZ2MRXmufQ) | 22:52 | 待转写 | — | — |
+| [【小岛浪吹】台湾人应该感谢日本的殖民吗？](https://www.youtube.com/watch?v=fEZ2MRXmufQ) | 22:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_fEZ2MRXmufQ.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_fEZ2MRXmufQ.txt) |
 | [【小岛浪吹】有史以来最靠猜的一期，普里戈任造反的前因后果，以及俄乌战争后续走势](https://www.youtube.com/watch?v=3rG2eQGc9eE) | 24:48 | 待转写 | — | — |
 | [【小岛浪吹】中国C919大飞机到底怎么样，美国为什么没有制裁？](https://www.youtube.com/watch?v=q97miQIelkk) | 21:44 | 待转写 | — | — |
 | [【小岛浪吹】为什么香港人越来越歧视大陆人？](https://www.youtube.com/watch?v=Y7u3rvW1i64) | 21:01 | 待转写 | — | — |
