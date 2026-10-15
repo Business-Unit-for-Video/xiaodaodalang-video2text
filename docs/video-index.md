@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 40，待转写 193，失败待处理 0，文件不完整 0。
+共 233 条：已转写 41，待转写 192，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -48,7 +48,7 @@
 | [【小岛浪吹】中国连续发生社会暴力事件，暴力事件越来越多了吗？压力山大的年轻人什么时候能够松口气](https://www.youtube.com/watch?v=_Mt-_2JM9Hk) | 24:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang__Mt-_2JM9Hk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang__Mt-_2JM9Hk.txt) |
 | [【小岛浪吹】川皇复辟，这次，他能让美国再次伟大吗](https://www.youtube.com/watch?v=Zn5JKMspsTM) | 24:31 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Zn5JKMspsTM.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Zn5JKMspsTM.txt) |
 | [【小岛浪吹】朝鲜唯一的胖族血脉源头，是如何诞生的](https://www.youtube.com/watch?v=tHuOR9SlukY) | 30:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_tHuOR9SlukY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_tHuOR9SlukY.txt) |
-| [【小岛浪吹】中国的股市是如何发展起来的，如何能够在A股稳定赚钱（祈祷我的反指撬起大A）](https://www.youtube.com/watch?v=1kYB4xQwsR4) | 24:49 | 待转写 | — | — |
+| [【小岛浪吹】中国的股市是如何发展起来的，如何能够在A股稳定赚钱（祈祷我的反指撬起大A）](https://www.youtube.com/watch?v=1kYB4xQwsR4) | 24:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_1kYB4xQwsR4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_1kYB4xQwsR4.txt) |
 | [【小岛浪吹】中国股市暴涨，到底发生了什么，能不能持续？](https://www.youtube.com/watch?v=O1-JtP1VewI) | 23:27 | 待转写 | — | — |
 | [【小岛浪吹】救市后的中国经济到底如何，习近平要负多大的责任 \| 房地产 \| 内卷 \| 移民 \| 清零 \| 计划生育 \| 延迟退休 \| 无效产能 \| 李强 \|  中医治国](https://www.youtube.com/watch?v=aVqZ--X-7DI) | 22:07 | 待转写 | — | — |
 | [【小岛浪吹】中国曾经最富的经济特区，是怎么废掉的  \| 汕头 \| 特区 \| 迎宾馆 \| 火烧钦差 \| 解放军工程兵 \| 走私 \| 偷税 \|  海外汇款](https://www.youtube.com/watch?v=1ES0ExXIiuE) | 23:42 | 待转写 | — | — |
