@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 37，待转写 196，失败待处理 0，文件不完整 0。
+共 233 条：已转写 38，待转写 195，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -45,7 +45,7 @@
 | [【小岛浪吹】开大了！精准预言中共还能撑多久才灭亡](https://www.youtube.com/watch?v=FiadsjVKEwk) | 27:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_FiadsjVKEwk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_FiadsjVKEwk.txt) |
 | [【小岛浪吹】最值得南韩学习的独裁者量产流程，胖族崛起之二胖的征程 ｜ 抗美援朝 ｜ 苏联剥削中国 ｜拍电影 ｜ 剔除共产主义](https://www.youtube.com/watch?v=b852l064Xpo) | 25:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_b852l064Xpo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_b852l064Xpo.txt) |
 | [【小岛浪吹】拜登大赦亲儿子，引全网热骂，为什么反华的川普在华人里的名声反而越来越好了](https://www.youtube.com/watch?v=CbESz3S6sVE) | 22:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_CbESz3S6sVE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_CbESz3S6sVE.txt) |
-| [【小岛浪吹】中国连续发生社会暴力事件，暴力事件越来越多了吗？压力山大的年轻人什么时候能够松口气](https://www.youtube.com/watch?v=_Mt-_2JM9Hk) | 24:16 | 待转写 | — | — |
+| [【小岛浪吹】中国连续发生社会暴力事件，暴力事件越来越多了吗？压力山大的年轻人什么时候能够松口气](https://www.youtube.com/watch?v=_Mt-_2JM9Hk) | 24:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang__Mt-_2JM9Hk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang__Mt-_2JM9Hk.txt) |
 | [【小岛浪吹】川皇复辟，这次，他能让美国再次伟大吗](https://www.youtube.com/watch?v=Zn5JKMspsTM) | 24:31 | 待转写 | — | — |
 | [【小岛浪吹】朝鲜唯一的胖族血脉源头，是如何诞生的](https://www.youtube.com/watch?v=tHuOR9SlukY) | 30:37 | 待转写 | — | — |
 | [【小岛浪吹】中国的股市是如何发展起来的，如何能够在A股稳定赚钱（祈祷我的反指撬起大A）](https://www.youtube.com/watch?v=1kYB4xQwsR4) | 24:49 | 待转写 | — | — |
