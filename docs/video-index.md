@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 6，待转写 227，失败待处理 0，文件不完整 0。
+共 233 条：已转写 7，待转写 226，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -14,7 +14,7 @@
 | [【小岛浪吹】一个视频讲清楚为什么美国人永远放不下伊朗，为什么伊朗必须反美](https://www.youtube.com/watch?v=ak8e5S9R1Qo) | 36:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ak8e5S9R1Qo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ak8e5S9R1Qo.txt) |
 | [【小岛浪吹】从阿嫲的情书到印加坡：一个华人多数国家的身份焦虑](https://www.youtube.com/watch?v=6tjGKAlczHs) | 26:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_6tjGKAlczHs.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_6tjGKAlczHs.txt) |
 | [【小岛不亏】证监会最严处罚来袭，中国人还能继续买美股吗，我在美股里躺着赚了多少](https://www.youtube.com/watch?v=mgyLzBv1P90) | 30:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_mgyLzBv1P90.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_mgyLzBv1P90.txt) |
-| [【小岛浪吹】DeepSeek适配华为最新昇腾芯片，韬定律横空出世打破极限，主观分析下中国AI到底处于什么水平](https://www.youtube.com/watch?v=d9-0yv1eIHw) | 30:30 | 待转写 | — | — |
+| [【小岛浪吹】DeepSeek适配华为最新昇腾芯片，韬定律横空出世打破极限，主观分析下中国AI到底处于什么水平](https://www.youtube.com/watch?v=d9-0yv1eIHw) | 30:30 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_d9-0yv1eIHw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_d9-0yv1eIHw.txt) |
 | [【小岛浪吹】2026开始闭关锁国？未来还能继续翻墙吗](https://www.youtube.com/watch?v=IVYL3LU_rDs) | 30:12 | 待转写 | — | — |
 | [【小岛浪吹】35分钟搞明白为什么伊朗一定要和西方过不去（换个国名以为在说中国）](https://www.youtube.com/watch?v=y1XZcvQ23z4) | 34:57 | 待转写 | — | — |
 | [【小岛浪吹】两个视频说清楚伊朗问题（历史篇）\| 波斯 \| 希腊 \| 明教 \| 张无忌 \| 伊斯兰 \| 蒙古 \| 中国 \| 什叶派 \| 逊尼派](https://www.youtube.com/watch?v=280QV9d-RvM) | 26:23 | 待转写 | — | — |
