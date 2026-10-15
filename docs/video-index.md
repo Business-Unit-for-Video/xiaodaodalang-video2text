@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 73，待转写 160，失败待处理 0，文件不完整 0。
+共 233 条：已转写 74，待转写 159，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -81,7 +81,7 @@
 | [【小岛浪吹】民进党是个什么东西：建党篇](https://www.youtube.com/watch?v=Vp8K7U_AAzg) | 25:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Vp8K7U_AAzg.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Vp8K7U_AAzg.txt) |
 | [【小岛浪吹】中国是如何控制军队的，军队又是如何平稳度过三年大饥荒，文化大革命的（政治篇）](https://www.youtube.com/watch?v=Wv1RiTFg3EE) | 23:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Wv1RiTFg3EE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Wv1RiTFg3EE.txt) |
 | [【小岛浪吹】让中概股血崩的《网络游戏管理办法》](https://www.youtube.com/watch?v=gV1uVpg0fqY) | 23:00 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_gV1uVpg0fqY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_gV1uVpg0fqY.txt) |
-| [【小岛浪吹】新加坡对中国免签意味着什么，中国和东南亚的关系到底怎么样](https://www.youtube.com/watch?v=vCfgtqc2ELs) | 23:37 | 待转写 | — | — |
+| [【小岛浪吹】新加坡对中国免签意味着什么，中国和东南亚的关系到底怎么样](https://www.youtube.com/watch?v=vCfgtqc2ELs) | 23:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_vCfgtqc2ELs.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_vCfgtqc2ELs.txt) |
 | [【小岛浪吹】论中国梦与蛋炒饭的关系](https://www.youtube.com/watch?v=ghRmKikfgB8) | 21:47 | 待转写 | — | — |
 | [【小岛浪吹】美国为什么被迫无条件的支持以色列，这样的溺爱还能持续多久](https://www.youtube.com/watch?v=aO9fBi99avs) | 25:10 | 待转写 | — | — |
 | [【小岛浪吹】为什么犹太人被针对？为什么美国背刺英国也要帮犹太人](https://www.youtube.com/watch?v=-is2hbWQzOg) | 22:53 | 待转写 | — | — |
