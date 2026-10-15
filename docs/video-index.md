@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 4，待转写 229，失败待处理 0，文件不完整 0。
+共 233 条：已转写 5，待转写 228，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -12,7 +12,7 @@
 | [【小岛浪吹】读透十五五，让中国的顶级智库每五年带我们炒一次酣畅淋漓的股票](https://www.youtube.com/watch?v=ZrsBByfOvxI) | 28:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ZrsBByfOvxI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ZrsBByfOvxI.txt) |
 | [【小岛浪吹】中国未来五年会怎么走，详细分析近20年中国所有的五年计划（结构篇）](https://www.youtube.com/watch?v=jPSsn2IEoOA) | 31:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_jPSsn2IEoOA.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_jPSsn2IEoOA.txt) |
 | [【小岛浪吹】一个视频讲清楚为什么美国人永远放不下伊朗，为什么伊朗必须反美](https://www.youtube.com/watch?v=ak8e5S9R1Qo) | 36:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ak8e5S9R1Qo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ak8e5S9R1Qo.txt) |
-| [【小岛浪吹】从阿嫲的情书到印加坡：一个华人多数国家的身份焦虑](https://www.youtube.com/watch?v=6tjGKAlczHs) | 26:33 | 待转写 | — | — |
+| [【小岛浪吹】从阿嫲的情书到印加坡：一个华人多数国家的身份焦虑](https://www.youtube.com/watch?v=6tjGKAlczHs) | 26:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_6tjGKAlczHs.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_6tjGKAlczHs.txt) |
 | [【小岛不亏】证监会最严处罚来袭，中国人还能继续买美股吗，我在美股里躺着赚了多少](https://www.youtube.com/watch?v=mgyLzBv1P90) | 30:58 | 待转写 | — | — |
 | [【小岛浪吹】DeepSeek适配华为最新昇腾芯片，韬定律横空出世打破极限，主观分析下中国AI到底处于什么水平](https://www.youtube.com/watch?v=d9-0yv1eIHw) | 30:30 | 待转写 | — | — |
 | [【小岛浪吹】2026开始闭关锁国？未来还能继续翻墙吗](https://www.youtube.com/watch?v=IVYL3LU_rDs) | 30:12 | 待转写 | — | — |
