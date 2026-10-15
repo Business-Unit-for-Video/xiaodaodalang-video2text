@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 61，待转写 172，失败待处理 0，文件不完整 0。
+共 233 条：已转写 62，待转写 171，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -69,7 +69,7 @@
 | [【小岛浪吹】中国经济为什么难恢复](https://www.youtube.com/watch?v=Pxla5E7Ac-Q) | 21:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Pxla5E7Ac-Q.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Pxla5E7Ac-Q.txt) |
 | [【小岛浪吹】一套视频讲清楚所有的西藏问题：中国是如何失去对西藏的统治的](https://www.youtube.com/watch?v=xbGMbABOoxc) | 24:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_xbGMbABOoxc.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_xbGMbABOoxc.txt) |
 | [【小岛浪吹】一套视频讲清楚所有的西藏问题：问题的起点](https://www.youtube.com/watch?v=IjIJ6o_ITL8) | 24:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_IjIJ6o_ITL8.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_IjIJ6o_ITL8.txt) |
-| [【小岛浪吹】国安法正式生效，香港还有价值吗](https://www.youtube.com/watch?v=Ule5cQBDZVE) | 19:29 | 待转写 | — | — |
+| [【小岛浪吹】国安法正式生效，香港还有价值吗](https://www.youtube.com/watch?v=Ule5cQBDZVE) | 19:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Ule5cQBDZVE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Ule5cQBDZVE.txt) |
 | [【小岛浪吹】为什么美国应该封禁TikTok](https://www.youtube.com/watch?v=KC_Cg7NgQ_c) | 21:25 | 待转写 | — | — |
 | [【小岛浪吹】我正式跳反了，说说憋在我心里很多年的话，为什么中国不如美国](https://www.youtube.com/watch?v=nsLnwgczlyo) | 22:18 | 待转写 | — | — |
 | [【小岛浪吹】被关的这些天，到底发生了什么，聊聊我是如何从终审被判无期，又突然被改判无罪的](https://www.youtube.com/watch?v=p6ihwVWEeAE) | 16:20 | 待转写 | — | — |
