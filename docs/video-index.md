@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 48，待转写 185，失败待处理 0，文件不完整 0。
+共 233 条：已转写 49，待转写 184，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -56,7 +56,7 @@
 | [【小岛浪吹】毛泽东是如何统治井冈山，又是如何丢掉井冈山的  \| 土改 \| 权力斗争 \| 党争 \| 共产国际 \| 上海党中央](https://www.youtube.com/watch?v=k284kqqAH4c) | 25:43 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_k284kqqAH4c.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_k284kqqAH4c.txt) |
 | [【小岛浪吹】爽文男主，共产国际曾最想开除的异端-----毛泽东，崛起的最关键一步 \| 国共分裂 \| 井冈山 \|  占山为王 \| 共产国际/周恩来骂毛泽东](https://www.youtube.com/watch?v=L74M8p4_TuI) | 24:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_L74M8p4_TuI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_L74M8p4_TuI.txt) |
 | [【小岛浪吹】胡锡进被封禁？中共内部左右两派阶段性斗争结果出炉！｜历史的垃圾时间｜清零｜退休延迟｜两岸达成共识](https://www.youtube.com/watch?v=TKNjWqeRAkY) | 24:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_TKNjWqeRAkY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_TKNjWqeRAkY.txt) |
-| [【小岛浪吹】花了我1万块的视频，习近平到底有没有可能十里山路不换肩](https://www.youtube.com/watch?v=Cv6RQOdlx4A) | 20:10 | 待转写 | — | — |
+| [【小岛浪吹】花了我1万块的视频，习近平到底有没有可能十里山路不换肩](https://www.youtube.com/watch?v=Cv6RQOdlx4A) | 20:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Cv6RQOdlx4A.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Cv6RQOdlx4A.txt) |
 | [【小岛浪吹】川宝遇刺，为什么川普胜率会大幅增加，如果他真的胜选会发生什么](https://www.youtube.com/watch?v=00x_OfW8-jo) | 13:21 | 待转写 | — | — |
 | [【小岛浪吹】印度能不能超越中国？](https://www.youtube.com/watch?v=mAmPAiFAz9E) | 22:28 | 待转写 | — | — |
 | [【小岛浪吹】一个视频讲清楚中印战争的前因后果](https://www.youtube.com/watch?v=1BRebNUbqaI) | 25:49 | 待转写 | — | — |
