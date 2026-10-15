@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 26，待转写 207，失败待处理 0，文件不完整 0。
+共 233 条：已转写 27，待转写 206，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -34,7 +34,7 @@
 | [【小岛浪吹】女大生白睡老外遭开除，猛男因口角怒跪懵逼老外 \| 大连工业大学 \| 宙斯 \| 东北 \| 性交易 \| 打胎 \| 计划生育 \| 性压抑](https://www.youtube.com/watch?v=eBGh3wo7db4) | 21:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_eBGh3wo7db4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_eBGh3wo7db4.txt) |
 | [【小岛浪吹】30分钟只讲一件事，大跃进是如何出现的](https://www.youtube.com/watch?v=WeuOL97cxPw) | 30:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_WeuOL97cxPw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_WeuOL97cxPw.txt) |
 | [【小岛浪吹】中国车圈宫斗，华为爆踩小米，长城怒怼车圈恒大，中国的新能源汽车业要变天了？](https://www.youtube.com/watch?v=dVa6B301TLE) | 24:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_dVa6B301TLE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_dVa6B301TLE.txt) |
-| [【小岛浪吹】川普为什么这么快就与中国议和](https://www.youtube.com/watch?v=7SbmS8vWehE) | 26:01 | 待转写 | — | — |
+| [【小岛浪吹】川普为什么这么快就与中国议和](https://www.youtube.com/watch?v=7SbmS8vWehE) | 26:01 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_7SbmS8vWehE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_7SbmS8vWehE.txt) |
 | [【小岛浪吹】山西大同案：为什么中国的婚姻如此扭曲](https://www.youtube.com/watch?v=D7dK3C1TB_U) | 24:00 | 待转写 | — | — |
 | [【小岛浪吹】中美关税战开打，谁会是最后赢家，来聊聊一个小丑是如何削国家国运的](https://www.youtube.com/watch?v=MWgnx4uWSxc) | 24:22 | 待转写 | — | — |
 | [【小岛浪吹】2025中国经济会怎么走 \| 两会 \| 司马南 \| 马云 \| 对外开放 \| 习近平 \| 李强 \| GDP目标 \| 消费刺激 \| 大放水](https://www.youtube.com/watch?v=VmPKOQliul0) | 25:40 | 待转写 | — | — |
