@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 54，待转写 179，失败待处理 0，文件不完整 0。
+共 233 条：已转写 55，待转写 178，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -62,7 +62,7 @@
 | [【小岛浪吹】一个视频讲清楚中印战争的前因后果](https://www.youtube.com/watch?v=1BRebNUbqaI) | 25:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_1BRebNUbqaI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_1BRebNUbqaI.txt) |
 | [【小岛浪吹】大富豪们别来看的一期：大家千万不要再移民新加坡了](https://www.youtube.com/watch?v=c68unvbKZdQ) | 21:31 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_c68unvbKZdQ.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_c68unvbKZdQ.txt) |
 | [【小岛浪吹】西藏是如何度过文革的，以及胡锦涛的崛起](https://www.youtube.com/watch?v=FILuyEH5RFE) | 24:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_FILuyEH5RFE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_FILuyEH5RFE.txt) |
-| [【小岛浪吹】武力收复台湾，中国需要付出哪些代价](https://www.youtube.com/watch?v=b23XvH0GzWI) | 24:34 | 待转写 | — | — |
+| [【小岛浪吹】武力收复台湾，中国需要付出哪些代价](https://www.youtube.com/watch?v=b23XvH0GzWI) | 24:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_b23XvH0GzWI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_b23XvH0GzWI.txt) |
 | [【小岛浪吹】中国房价还会跌多久](https://www.youtube.com/watch?v=6H-JWQqzmDw) | 22:38 | 待转写 | — | — |
 | [【小岛浪吹】一套视频讲清楚所有的西藏问题：西藏的反叛与达赖喇嘛的出逃](https://www.youtube.com/watch?v=xY8zs67Snb8) | 24:09 | 待转写 | — | — |
 | [【小岛浪吹】一套视频讲清楚所有的西藏问题：中国是如何收复西藏的](https://www.youtube.com/watch?v=VoVhp8_iqNc) | 25:03 | 待转写 | — | — |
