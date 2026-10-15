@@ -8,7 +8,7 @@
 
 在 Actions 打开“转写 YouTube 频道”，点击 **Run workflow**：
 
-- `whisper_model`：默认 `small`，速度较快；可选 `medium` 提升转录精度。
+- `whisper_model`：默认 `medium`，沿用 Video2Text 的精度设置；快速验证可选 `small`。首次单条验证使用 `small`。
 - `force_retranscribe`：勾选后允许重试以前失败的项目，已完成项目仍会跳过。
 - `continue_chain`：默认开启。一条视频成功后自动触发下一次运行；关闭时只处理一条。
 

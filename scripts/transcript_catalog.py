@@ -38,7 +38,7 @@ def build_catalog(repo_root: Path) -> dict:
         records.append({
             "id": video_id,
             "title": item.get("title") or video_id,
-            "url": item.get("url") or f"https://www.youtube.com/watch?v={video_id}",
+            "url": f"https://www.youtube.com/watch?v={video_id}",
             "duration": item.get("duration"),
             "tab": item.get("tab"),
             "availability": item.get("availability"),

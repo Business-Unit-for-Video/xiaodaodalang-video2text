@@ -7,7 +7,7 @@ on:
         description: "Whisper 模型：small 较快，medium 较精细"
         type: choice
         options: [small, medium]
-        default: small
+        default: medium
       force_retranscribe:
         description: "重试失败视频，已完成视频仍跳过"
         type: boolean
@@ -36,7 +36,7 @@ jobs:
       DESTINATION: "xiaodaodalang"
       YOUTUBE_INCLUDE_MEMBERS: "false"
       YOUTUBE_COOKIES_FILE: youtube_cookies.txt
-      WHISPER_MODEL: ${{ inputs.whisper_model || 'small' }}
+      WHISPER_MODEL: ${{ inputs.whisper_model || 'medium' }}
       FORCE_RETRANSCRIBE: ${{ inputs.force_retranscribe || false }}
       WHISPER_DEVICE: cpu
       WHISPER_COMPUTE_TYPE: int8
