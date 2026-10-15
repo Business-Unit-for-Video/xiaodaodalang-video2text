@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 51，待转写 182，失败待处理 0，文件不完整 0。
+共 233 条：已转写 52，待转写 181，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -59,7 +59,7 @@
 | [【小岛浪吹】花了我1万块的视频，习近平到底有没有可能十里山路不换肩](https://www.youtube.com/watch?v=Cv6RQOdlx4A) | 20:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Cv6RQOdlx4A.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Cv6RQOdlx4A.txt) |
 | [【小岛浪吹】川宝遇刺，为什么川普胜率会大幅增加，如果他真的胜选会发生什么](https://www.youtube.com/watch?v=00x_OfW8-jo) | 13:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_00x_OfW8-jo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_00x_OfW8-jo.txt) |
 | [【小岛浪吹】印度能不能超越中国？](https://www.youtube.com/watch?v=mAmPAiFAz9E) | 22:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_mAmPAiFAz9E.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_mAmPAiFAz9E.txt) |
-| [【小岛浪吹】一个视频讲清楚中印战争的前因后果](https://www.youtube.com/watch?v=1BRebNUbqaI) | 25:49 | 待转写 | — | — |
+| [【小岛浪吹】一个视频讲清楚中印战争的前因后果](https://www.youtube.com/watch?v=1BRebNUbqaI) | 25:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_1BRebNUbqaI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_1BRebNUbqaI.txt) |
 | [【小岛浪吹】大富豪们别来看的一期：大家千万不要再移民新加坡了](https://www.youtube.com/watch?v=c68unvbKZdQ) | 21:31 | 待转写 | — | — |
 | [【小岛浪吹】西藏是如何度过文革的，以及胡锦涛的崛起](https://www.youtube.com/watch?v=FILuyEH5RFE) | 24:11 | 待转写 | — | — |
 | [【小岛浪吹】武力收复台湾，中国需要付出哪些代价](https://www.youtube.com/watch?v=b23XvH0GzWI) | 24:34 | 待转写 | — | — |
