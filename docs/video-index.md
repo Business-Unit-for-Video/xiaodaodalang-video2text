@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 71，待转写 162，失败待处理 0，文件不完整 0。
+共 233 条：已转写 72，待转写 161，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -79,7 +79,7 @@
 | [【小岛浪吹】梅西香港不上场事件的前因后果，看球的不看球的都High了](https://www.youtube.com/watch?v=2yTDuhmifp8) | 24:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_2yTDuhmifp8.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_2yTDuhmifp8.txt) |
 | [【小岛浪吹】民进党是个什么东西：台独篇](https://www.youtube.com/watch?v=xiC_fLStRXw) | 23:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_xiC_fLStRXw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_xiC_fLStRXw.txt) |
 | [【小岛浪吹】民进党是个什么东西：建党篇](https://www.youtube.com/watch?v=Vp8K7U_AAzg) | 25:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Vp8K7U_AAzg.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Vp8K7U_AAzg.txt) |
-| [【小岛浪吹】中国是如何控制军队的，军队又是如何平稳度过三年大饥荒，文化大革命的（政治篇）](https://www.youtube.com/watch?v=Wv1RiTFg3EE) | 23:34 | 待转写 | — | — |
+| [【小岛浪吹】中国是如何控制军队的，军队又是如何平稳度过三年大饥荒，文化大革命的（政治篇）](https://www.youtube.com/watch?v=Wv1RiTFg3EE) | 23:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Wv1RiTFg3EE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Wv1RiTFg3EE.txt) |
 | [【小岛浪吹】让中概股血崩的《网络游戏管理办法》](https://www.youtube.com/watch?v=gV1uVpg0fqY) | 23:00 | 待转写 | — | — |
 | [【小岛浪吹】新加坡对中国免签意味着什么，中国和东南亚的关系到底怎么样](https://www.youtube.com/watch?v=vCfgtqc2ELs) | 23:37 | 待转写 | — | — |
 | [【小岛浪吹】论中国梦与蛋炒饭的关系](https://www.youtube.com/watch?v=ghRmKikfgB8) | 21:47 | 待转写 | — | — |
