@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 78，待转写 155，失败待处理 0，文件不完整 0。
+共 233 条：已转写 79，待转写 154，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -86,7 +86,7 @@
 | [【小岛浪吹】美国为什么被迫无条件的支持以色列，这样的溺爱还能持续多久](https://www.youtube.com/watch?v=aO9fBi99avs) | 25:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_aO9fBi99avs.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_aO9fBi99avs.txt) |
 | [【小岛浪吹】为什么犹太人被针对？为什么美国背刺英国也要帮犹太人](https://www.youtube.com/watch?v=-is2hbWQzOg) | 22:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_-is2hbWQzOg.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_-is2hbWQzOg.txt) |
 | [【小岛浪吹】最像海外华人的族群----犹太人，为什么犹太人这么容易被针对，又这么的强大](https://www.youtube.com/watch?v=2IQgkx3EKj8) | 24:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_2IQgkx3EKj8.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_2IQgkx3EKj8.txt) |
-| [【小岛浪吹】新加坡医院也歧视中国人？到底应该如何应对歧视（视频含劲爆更新flag）](https://www.youtube.com/watch?v=jCOdTC_JH1Y) | 18:24 | 待转写 | — | — |
+| [【小岛浪吹】新加坡医院也歧视中国人？到底应该如何应对歧视（视频含劲爆更新flag）](https://www.youtube.com/watch?v=jCOdTC_JH1Y) | 18:24 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_jCOdTC_JH1Y.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_jCOdTC_JH1Y.txt) |
 | [【小岛浪吹】你该不该润？各种润法哪种最适合你](https://www.youtube.com/watch?v=a1XP5-_hYDc) | 22:13 | 待转写 | — | — |
 | [【小岛浪吹】华为到底突破了没有，中国的半导体行业正处于什么状态](https://www.youtube.com/watch?v=lzzUs0-NcYY) | 20:22 | 待转写 | — | — |
 | [【小岛浪吹】为什么中国的经济不行了？](https://www.youtube.com/watch?v=z9Q4nP15kxM) | 22:39 | 待转写 | — | — |
