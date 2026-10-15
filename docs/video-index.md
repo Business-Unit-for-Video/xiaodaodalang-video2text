@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 12，待转写 221，失败待处理 0，文件不完整 0。
+共 233 条：已转写 13，待转写 220，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -20,7 +20,7 @@
 | [【小岛浪吹】两个视频说清楚伊朗问题（历史篇）\| 波斯 \| 希腊 \| 明教 \| 张无忌 \| 伊斯兰 \| 蒙古 \| 中国 \| 什叶派 \| 逊尼派](https://www.youtube.com/watch?v=280QV9d-RvM) | 26:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_280QV9d-RvM.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_280QV9d-RvM.txt) |
 | [【小岛浪吹】2025官方经济数据披露完毕，中国的经济到底如何，未来又将何去何从](https://www.youtube.com/watch?v=jOiDh9ksDgI) | 27:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_jOiDh9ksDgI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_jOiDh9ksDgI.txt) |
 | [【小岛浪吹】美国移民局连续枪毙白人公民，遣返非法移民行动，为什么会从全民支持到全民大罢工](https://www.youtube.com/watch?v=ffQ5es_xiWY) | 22:24 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ffQ5es_xiWY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ffQ5es_xiWY.txt) |
-| [【小岛浪吹】转折点！美国闪击委内瑞拉](https://www.youtube.com/watch?v=r1foKjp5bno) | 26:53 | 待转写 | — | — |
+| [【小岛浪吹】转折点！美国闪击委内瑞拉](https://www.youtube.com/watch?v=r1foKjp5bno) | 26:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_r1foKjp5bno.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_r1foKjp5bno.txt) |
 | [【小岛求助】百万大v的现身说法，说说共产党是怎么抢走我的财产的](https://www.youtube.com/watch?v=wx82fbjMYAw) | 28:28 | 待转写 | — | — |
 | [【小岛不亏】终于做出了这个重大决定！公开我的投资账户，2025花费零精力，我赚/亏了多少钱](https://www.youtube.com/watch?v=tRBsPI6OHvM) | 24:28 | 待转写 | — | — |
 | [【小岛浪吹】台湾有事，就是日本有事，中日之战已经开始了](https://www.youtube.com/watch?v=WDSwyu53iZE) | 25:47 | 待转写 | — | — |
