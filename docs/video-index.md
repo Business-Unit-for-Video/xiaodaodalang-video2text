@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 34，待转写 199，失败待处理 0，文件不完整 0。
+共 233 条：已转写 35，待转写 198，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -42,7 +42,7 @@
 | [【小岛浪吹】泽连斯基白宫被川宝羞辱，美国欲断援，乌克兰还有救吗](https://www.youtube.com/watch?v=_rUNSR8a14Q) | 25:45 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang__rUNSR8a14Q.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang__rUNSR8a14Q.txt) |
 | [【小岛浪吹】中国男人的地位为什么这么低](https://www.youtube.com/watch?v=aaQWaoz1o4w) | 25:24 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_aaQWaoz1o4w.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_aaQWaoz1o4w.txt) |
 | [【小岛浪吹】新年新气象，美国还有多久崩溃 \| TikTok \| DeepSeek \| 加拿大 \| 格陵兰岛 \| 光刻机](https://www.youtube.com/watch?v=doZJWP-IozI) | 24:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_doZJWP-IozI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_doZJWP-IozI.txt) |
-| [【小岛浪吹】开大了！精准预言中共还能撑多久才灭亡](https://www.youtube.com/watch?v=FiadsjVKEwk) | 27:38 | 待转写 | — | — |
+| [【小岛浪吹】开大了！精准预言中共还能撑多久才灭亡](https://www.youtube.com/watch?v=FiadsjVKEwk) | 27:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_FiadsjVKEwk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_FiadsjVKEwk.txt) |
 | [【小岛浪吹】最值得南韩学习的独裁者量产流程，胖族崛起之二胖的征程 ｜ 抗美援朝 ｜ 苏联剥削中国 ｜拍电影 ｜ 剔除共产主义](https://www.youtube.com/watch?v=b852l064Xpo) | 25:40 | 待转写 | — | — |
 | [【小岛浪吹】拜登大赦亲儿子，引全网热骂，为什么反华的川普在华人里的名声反而越来越好了](https://www.youtube.com/watch?v=CbESz3S6sVE) | 22:29 | 待转写 | — | — |
 | [【小岛浪吹】中国连续发生社会暴力事件，暴力事件越来越多了吗？压力山大的年轻人什么时候能够松口气](https://www.youtube.com/watch?v=_Mt-_2JM9Hk) | 24:16 | 待转写 | — | — |
