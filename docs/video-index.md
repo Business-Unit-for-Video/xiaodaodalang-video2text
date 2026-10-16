@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 130，待转写 103，失败待处理 0，文件不完整 0。
+共 233 条：已转写 131，待转写 102，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -138,7 +138,7 @@
 | [【小岛浪吹】一个视频讲明白俄罗斯与乌克兰的恩怨情仇，为什么普金要出兵乌克兰](https://www.youtube.com/watch?v=3pjlE9KruVU) | 23:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_3pjlE9KruVU.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_3pjlE9KruVU.txt) |
 | [【小岛浪吹】为什么说国民党曾经就是共产党](https://www.youtube.com/watch?v=6Em3RWnNFB8) | 18:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_6Em3RWnNFB8.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_6Em3RWnNFB8.txt) |
 | [【小岛浪吹】 (内含国民党通共证据) 国民党的党生巅峰，对共产党的唯一胜利](https://www.youtube.com/watch?v=It6e-OwCbr8) | 19:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_It6e-OwCbr8.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_It6e-OwCbr8.txt) |
-| [【小岛浪吹】为什么中国足球（特指男足）一直输，一直输，一直输](https://www.youtube.com/watch?v=X4DvTQmikd8) | 21:19 | 待转写 | — | — |
+| [【小岛浪吹】为什么中国足球（特指男足）一直输，一直输，一直输](https://www.youtube.com/watch?v=X4DvTQmikd8) | 21:19 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_X4DvTQmikd8.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_X4DvTQmikd8.txt) |
 | [【小岛浪吹】中国是如何失去蒙古的，为什么台湾地图上还有蒙古](https://www.youtube.com/watch?v=W5pniYWyBQ4) | 20:16 | 待转写 | — | — |
 | [【小岛浪吹】实惨！我在美国解锁新冠成就，纯硬扛恢复，机票作废，卡在美国没法回去过年了](https://www.youtube.com/watch?v=f9y2hejHEN8) | 17:32 | 待转写 | — | — |
 | [【小岛浪吹】毛泽东是如何从一个追求湖南独立的理想主义者，变成中国共产党创党元老的](https://www.youtube.com/watch?v=if5gEHQH4qs) | 19:20 | 待转写 | — | — |
