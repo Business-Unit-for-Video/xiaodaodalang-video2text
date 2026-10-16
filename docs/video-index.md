@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 123，待转写 110，失败待处理 0，文件不完整 0。
+共 233 条：已转写 124，待转写 109，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -131,7 +131,7 @@
 | [【小岛浪吹】蛤派崛起之沪上王入京登顶，最猛海派小将落难，人生自古两难全](https://www.youtube.com/watch?v=lXCzxMnyers) | 23:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_lXCzxMnyers.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_lXCzxMnyers.txt) |
 | [【小岛浪吹】目前吹点最密集的一期，为什么王思聪被封，北京疫情的数据有什么特殊，上海新冠死亡率是多少，科兴疫苗到底怎么样，股票为啥老亏，赵立坚为什么开始吹中美人民的友谊了](https://www.youtube.com/watch?v=qCvCkgTXWEU) | 21:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_qCvCkgTXWEU.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_qCvCkgTXWEU.txt) |
 | [【小岛浪吹】上海帮之最强小弟，党和国家领导人，民意支持度最高的上海市委书记是如何获得权力，然后被送进秦城监狱的（上）](https://www.youtube.com/watch?v=b5J1aDqjM1g) | 24:19 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_b5J1aDqjM1g.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_b5J1aDqjM1g.txt) |
-| [【小岛浪吹】为什么上海的抗疫政策可以特殊化，为什么上海封城效果差，未来中国疫情会如何收场](https://www.youtube.com/watch?v=RAEwmTOXRXE) | 20:39 | 待转写 | — | — |
+| [【小岛浪吹】为什么上海的抗疫政策可以特殊化，为什么上海封城效果差，未来中国疫情会如何收场](https://www.youtube.com/watch?v=RAEwmTOXRXE) | 20:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_RAEwmTOXRXE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_RAEwmTOXRXE.txt) |
 | [【小岛浪吹】同样是共产主义国家转型，为什么中国比俄罗斯有钱亿点点](https://www.youtube.com/watch?v=wL960B4YliU) | 23:07 | 待转写 | — | — |
 | [【小岛浪吹】普京是如何从一个小间谍，逐步掌控整个俄罗斯的](https://www.youtube.com/watch?v=8k2MSP8P7TY) | 21:59 | 待转写 | — | — |
 | [【小岛浪吹】中国为什么举倾国之力援助越南，转头又发动中越战争，普金大弟和邓小平谁更会打仗一点](https://www.youtube.com/watch?v=VF_zizHtOi4) | 24:18 | 待转写 | — | — |
