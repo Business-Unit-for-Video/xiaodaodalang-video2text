@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 158，待转写 75，失败待处理 0，文件不完整 0。
+共 233 条：已转写 159，待转写 74，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -166,7 +166,7 @@
 | [【小岛浪吹】作死整个大活儿，来自蓝星美丽国国主的自白，为什么我们要抛弃阿富汗，台湾的绿营需要学习点什么](https://www.youtube.com/watch?v=sQJ3FnqviuY) | 17:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_sQJ3FnqviuY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_sQJ3FnqviuY.txt) |
 | [【小岛浪吹】地方教育改革政策出炉，上海取消英语考试，老外学生反而会越来越多？一个视频聊清楚未来五到十年教育改革方向](https://www.youtube.com/watch?v=5to3G_CT4LY) | 17:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_5to3G_CT4LY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_5to3G_CT4LY.txt) |
 | [【小岛浪吹】中国如何从体育弱国变成奥运会金牌大户，为什么美国的金牌第一有点不稳](https://www.youtube.com/watch?v=Y2KQ5zVGiU0) | 17:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Y2KQ5zVGiU0.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Y2KQ5zVGiU0.txt) |
-| [【小岛浪吹】中国教育改革“双减”能成功吗，你愿意生三胎吗，聊聊中国近几年的几个失误](https://www.youtube.com/watch?v=USzousYFqLc) | 16:50 | 待转写 | — | — |
+| [【小岛浪吹】中国教育改革“双减”能成功吗，你愿意生三胎吗，聊聊中国近几年的几个失误](https://www.youtube.com/watch?v=USzousYFqLc) | 16:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_USzousYFqLc.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_USzousYFqLc.txt) |
 | [【小岛浪吹】一个视频说清楚一国两制的前世今生，五十年不变到底变没变，未来一国两制还会继续吗](https://www.youtube.com/watch?v=XndVHtZ0Cmg) | 17:37 | 待转写 | — | — |
 | [【小岛浪吹】中国千万级大V回形针被全网封杀，自媒体到底怎么赚钱，能赚多少钱，对自媒体严格监管到底对不对](https://www.youtube.com/watch?v=CdXZ8FbVhDw) | 18:39 | 待转写 | — | — |
 | [【小岛浪吹】同时被中国和美国暴打的滴滴，到底犯了什么忌讳，欢迎大家一起来吹一吹](https://www.youtube.com/watch?v=vKUSWoEjmr8) | 17:22 | 待转写 | — | — |
