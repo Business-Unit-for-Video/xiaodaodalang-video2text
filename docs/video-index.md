@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 187，待转写 46，失败待处理 0，文件不完整 0。
+共 233 条：已转写 188，待转写 45，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -195,7 +195,7 @@
 | [【小岛浪吹】国民党是如何渐渐失去台湾的，为什么说国民党再也不可能赢民进党了，求国民党打我的脸](https://www.youtube.com/watch?v=nQmkRTektsA) | 18:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_nQmkRTektsA.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_nQmkRTektsA.txt) |
 | [【小岛浪吹】为什么占优势的国民党干不过共产党，教科书不能全信](https://www.youtube.com/watch?v=Y9HVdPj0Bwo) | 16:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Y9HVdPj0Bwo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Y9HVdPj0Bwo.txt) |
 | [【小岛浪吹】散户能打赢华尔街？看好你的钱包，谁也别信，小岛2021年度良心放送](https://www.youtube.com/watch?v=fNZWdWLtN-g) | 14:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_fNZWdWLtN-g.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_fNZWdWLtN-g.txt) |
-| [【小岛浪吹】川普下岗后想要再就业，美国的党派这么容易创的吗?你觉得川大爷有可能迎来事业第二春吗？](https://www.youtube.com/watch?v=W5bbXACSoRU) | 16:30 | 待转写 | — | — |
+| [【小岛浪吹】川普下岗后想要再就业，美国的党派这么容易创的吗?你觉得川大爷有可能迎来事业第二春吗？](https://www.youtube.com/watch?v=W5bbXACSoRU) | 16:30 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_W5bbXACSoRU.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_W5bbXACSoRU.txt) |
 | [【小岛浪吹】总统被公司给封了！亲身经历来谈谈中美社交平台不同的舆论控制方法](https://www.youtube.com/watch?v=QAxrHUSuwe4) | 16:23 | 待转写 | — | — |
 | [【小岛浪吹】东南亚队长，超长待机，敢于挑战中美新加坡的老大爷，你服不服？](https://www.youtube.com/watch?v=gRzQQiNInAY) | 18:10 | 待转写 | — | — |
 | [【小岛浪吹】东南亚列弱之首，完美传承四川变脸术，来回狂扇中美耳光的神奇国度](https://www.youtube.com/watch?v=LttFt1XBDvw) | 17:46 | 待转写 | — | — |
