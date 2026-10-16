@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 154，待转写 79，失败待处理 0，文件不完整 0。
+共 233 条：已转写 155，待转写 78，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -162,7 +162,7 @@
 | [【小岛浪吹】与病毒共存与病毒清零的原因是什么，为什么大部分国家不愿意学中国](https://www.youtube.com/watch?v=YVgusaLiB-s) | 18:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_YVgusaLiB-s.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_YVgusaLiB-s.txt) |
 | [【小岛浪吹】房价不能涨，也不准降，聊聊现在中国房地产的转向，中央与地方的博弈，以及普通人怎么赚一笔](https://www.youtube.com/watch?v=aPFmF5sSXto) | 19:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_aPFmF5sSXto.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_aPFmF5sSXto.txt) |
 | [【小岛浪吹】脑洞最大的一期，从郑爽，第三次财富分配，取消996，未成年人游戏受限，中产家庭资产上升，推导出赵薇被封杀的终极原因](https://www.youtube.com/watch?v=5CszS8xHCKk) | 18:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_5CszS8xHCKk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_5CszS8xHCKk.txt) |
-| [【小岛浪吹】中国人在巴基斯坦频繁被袭击，巴铁和中国之间到底出了什么问题](https://www.youtube.com/watch?v=hqEe6JpyXck) | 18:45 | 待转写 | — | — |
+| [【小岛浪吹】中国人在巴基斯坦频繁被袭击，巴铁和中国之间到底出了什么问题](https://www.youtube.com/watch?v=hqEe6JpyXck) | 18:45 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_hqEe6JpyXck.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_hqEe6JpyXck.txt) |
 | [【小岛浪吹】作死整个大活儿，来自蓝星美丽国国主的自白，为什么我们要抛弃阿富汗，台湾的绿营需要学习点什么](https://www.youtube.com/watch?v=sQJ3FnqviuY) | 17:23 | 待转写 | — | — |
 | [【小岛浪吹】地方教育改革政策出炉，上海取消英语考试，老外学生反而会越来越多？一个视频聊清楚未来五到十年教育改革方向](https://www.youtube.com/watch?v=5to3G_CT4LY) | 17:33 | 待转写 | — | — |
 | [【小岛浪吹】中国如何从体育弱国变成奥运会金牌大户，为什么美国的金牌第一有点不稳](https://www.youtube.com/watch?v=Y2KQ5zVGiU0) | 17:10 | 待转写 | — | — |
