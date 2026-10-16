@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 135，待转写 98，失败待处理 0，文件不完整 0。
+共 233 条：已转写 136，待转写 97，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -143,7 +143,7 @@
 | [【小岛浪吹】实惨！我在美国解锁新冠成就，纯硬扛恢复，机票作废，卡在美国没法回去过年了](https://www.youtube.com/watch?v=f9y2hejHEN8) | 17:32 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_f9y2hejHEN8.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_f9y2hejHEN8.txt) |
 | [【小岛浪吹】毛泽东是如何从一个追求湖南独立的理想主义者，变成中国共产党创党元老的](https://www.youtube.com/watch?v=if5gEHQH4qs) | 19:20 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_if5gEHQH4qs.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_if5gEHQH4qs.txt) |
 | [【小岛浪吹】为什么有些香港人认为自己不是中国人，中国能否赢回香港人心](https://www.youtube.com/watch?v=aD9rS_SihYM) | 19:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_aD9rS_SihYM.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_aD9rS_SihYM.txt) |
-| [【小岛浪吹】为什么中国许多文化人会有“高级审美”，是不是“辱华”，作为普通人的你怎么想的？](https://www.youtube.com/watch?v=DaDkxZIpj_M) | 17:41 | 待转写 | — | — |
+| [【小岛浪吹】为什么中国许多文化人会有“高级审美”，是不是“辱华”，作为普通人的你怎么想的？](https://www.youtube.com/watch?v=DaDkxZIpj_M) | 17:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_DaDkxZIpj_M.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_DaDkxZIpj_M.txt) |
 | [【小岛浪吹】亲身经历！根据我被美国油管黄标，以及中国B站封号，来聊聊无处不在的举报](https://www.youtube.com/watch?v=G06SAXlbbL0) | 18:53 | 待转写 | — | — |
 | [【小岛浪吹】（反黄标特别版）全世界都不喜欢中国人？中国到底做了什么，作为中国人应该做点什么](https://www.youtube.com/watch?v=abv2S2sO6Uk) | 18:21 | 待转写 | — | — |
 | [【小岛浪吹】全世界都不喜欢中国人？中国到底做了什么，作为中国人应该做点什么](https://www.youtube.com/watch?v=EanGRa9LJS0) | 18:21 | 待转写 | — | — |
