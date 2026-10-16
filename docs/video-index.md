@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 190，待转写 43，失败待处理 0，文件不完整 0。
+共 233 条：已转写 191，待转写 42，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -198,7 +198,7 @@
 | [【小岛浪吹】川普下岗后想要再就业，美国的党派这么容易创的吗?你觉得川大爷有可能迎来事业第二春吗？](https://www.youtube.com/watch?v=W5bbXACSoRU) | 16:30 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_W5bbXACSoRU.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_W5bbXACSoRU.txt) |
 | [【小岛浪吹】总统被公司给封了！亲身经历来谈谈中美社交平台不同的舆论控制方法](https://www.youtube.com/watch?v=QAxrHUSuwe4) | 16:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_QAxrHUSuwe4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_QAxrHUSuwe4.txt) |
 | [【小岛浪吹】东南亚队长，超长待机，敢于挑战中美新加坡的老大爷，你服不服？](https://www.youtube.com/watch?v=gRzQQiNInAY) | 18:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_gRzQQiNInAY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_gRzQQiNInAY.txt) |
-| [【小岛浪吹】东南亚列弱之首，完美传承四川变脸术，来回狂扇中美耳光的神奇国度](https://www.youtube.com/watch?v=LttFt1XBDvw) | 17:46 | 待转写 | — | — |
+| [【小岛浪吹】东南亚列弱之首，完美传承四川变脸术，来回狂扇中美耳光的神奇国度](https://www.youtube.com/watch?v=LttFt1XBDvw) | 17:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_LttFt1XBDvw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_LttFt1XBDvw.txt) |
 | [【小岛浪吹】中国的商人地位，为什么最低下，被老百姓骂，被政府干](https://www.youtube.com/watch?v=py3KCc9tmcI) | 14:33 | 待转写 | — | — |
 | [【小岛浪吹】中芯国际内讧，一场台湾人的内战，还是中美冲突的牺牲品](https://www.youtube.com/watch?v=re4V-oXgj54) | 15:52 | 待转写 | — | — |
 | [【小岛浪吹】嫦娥五号登月，中国知乎与美国Quora上的网友怎么看](https://www.youtube.com/watch?v=YoGe7COhYvI) | 14:12 | 待转写 | — | — |
