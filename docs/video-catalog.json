@@ -3,10 +3,10 @@
   "channel_url": "https://www.youtube.com/@xiaodaodalang",
   "repository": "Business-Unit-for-Video/xiaodaodalang-video2text",
   "destination": "xiaodaodalang",
-  "generated_at": "2026-10-16 14:07:01",
+  "generated_at": "2026-10-16 14:17:58",
   "counts": {
-    "completed": 156,
-    "pending": 77,
+    "completed": 157,
+    "pending": 76,
     "failed": 0,
     "partial": 0
   },
@@ -1734,9 +1734,9 @@
       "duration": 1053,
       "tab": "videos",
       "availability": null,
-      "transcript_status": "pending",
-      "plain_url": null,
-      "timestamps_url": null
+      "transcript_status": "completed",
+      "plain_url": "https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_5to3G_CT4LY.txt",
+      "timestamps_url": "https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_5to3G_CT4LY.txt"
     },
     {
       "id": "Y2KQ5zVGiU0",
