@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 219，待转写 14，失败待处理 0，文件不完整 0。
+共 233 条：已转写 220，待转写 13，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -227,7 +227,7 @@
 | [【2020十七期】香港与新加坡，两个极度相似的城市，为什么如今拥有不一样的命运](https://www.youtube.com/watch?v=4PQDPaJ2GEs) | 14:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_4PQDPaJ2GEs.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_4PQDPaJ2GEs.txt) |
 | [【2020十六期】一个在海外长大的华人谈谈对六四的看法，无法保证绝对的中立](https://www.youtube.com/watch?v=w8zEOnmecp0) | 21:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_w8zEOnmecp0.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_w8zEOnmecp0.txt) |
 | [【2020十五期】两种不同的教育，最有效率的阶级划分](https://www.youtube.com/watch?v=p291o7r1Qis) | 15:03 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_p291o7r1Qis.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_p291o7r1Qis.txt) |
-| [【2020十四期】新加坡为什么能拥有两所世界顶尖的大学，新加坡为了教育做出了什么样的努力](https://www.youtube.com/watch?v=O3G-FYIvhuw) | 16:01 | 待转写 | — | — |
+| [【2020十四期】新加坡为什么能拥有两所世界顶尖的大学，新加坡为了教育做出了什么样的努力](https://www.youtube.com/watch?v=O3G-FYIvhuw) | 16:01 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_O3G-FYIvhuw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_O3G-FYIvhuw.txt) |
 | [【2020第十三期】新加坡的九个神奇法律，有的是男人都会犯的错，政府是如何保证人民遵守严格法律呢](https://www.youtube.com/watch?v=M17ymtE6X5A) | 12:22 | 待转写 | — | — |
 | [【2020第十二期】台湾与新加坡为什么从兄弟之邦到为了捐赠口罩生恨，中国大陆在其中扮演了什么样的角色](https://www.youtube.com/watch?v=B0bIV6VMvGI) | 14:41 | 待转写 | — | — |
 | [【2020第十一期】想要移民新加坡，千万不能做的6件事，来讲讲我朋友们的故事](https://www.youtube.com/watch?v=xp1JuEUjyKo) | 14:34 | 待转写 | — | — |
