@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 127，待转写 106，失败待处理 0，文件不完整 0。
+共 233 条：已转写 128，待转写 105，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -135,7 +135,7 @@
 | [【小岛浪吹】同样是共产主义国家转型，为什么中国比俄罗斯有钱亿点点](https://www.youtube.com/watch?v=wL960B4YliU) | 23:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_wL960B4YliU.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_wL960B4YliU.txt) |
 | [【小岛浪吹】普京是如何从一个小间谍，逐步掌控整个俄罗斯的](https://www.youtube.com/watch?v=8k2MSP8P7TY) | 21:59 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_8k2MSP8P7TY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_8k2MSP8P7TY.txt) |
 | [【小岛浪吹】中国为什么举倾国之力援助越南，转头又发动中越战争，普金大弟和邓小平谁更会打仗一点](https://www.youtube.com/watch?v=VF_zizHtOi4) | 24:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_VF_zizHtOi4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_VF_zizHtOi4.txt) |
-| [【小岛浪吹】一个视频讲明白俄罗斯与乌克兰的恩怨情仇，为什么普金要出兵乌克兰](https://www.youtube.com/watch?v=3pjlE9KruVU) | 23:36 | 待转写 | — | — |
+| [【小岛浪吹】一个视频讲明白俄罗斯与乌克兰的恩怨情仇，为什么普金要出兵乌克兰](https://www.youtube.com/watch?v=3pjlE9KruVU) | 23:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_3pjlE9KruVU.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_3pjlE9KruVU.txt) |
 | [【小岛浪吹】为什么说国民党曾经就是共产党](https://www.youtube.com/watch?v=6Em3RWnNFB8) | 18:38 | 待转写 | — | — |
 | [【小岛浪吹】 (内含国民党通共证据) 国民党的党生巅峰，对共产党的唯一胜利](https://www.youtube.com/watch?v=It6e-OwCbr8) | 19:58 | 待转写 | — | — |
 | [【小岛浪吹】为什么中国足球（特指男足）一直输，一直输，一直输](https://www.youtube.com/watch?v=X4DvTQmikd8) | 21:19 | 待转写 | — | — |
