@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 120，待转写 113，失败待处理 0，文件不完整 0。
+共 233 条：已转写 121，待转写 112，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -128,7 +128,7 @@
 | [【小岛浪吹】唐山的黑社会问题为什么这么严重，中国为什么无法根除黑社会问题](https://www.youtube.com/watch?v=6ZIdWiOU9f4) | 21:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_6ZIdWiOU9f4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_6ZIdWiOU9f4.txt) |
 | [【小岛浪吹】全网第一手消息，历时半年多的非正经业余意见征集，在清零问题上，你开小差了吗？](https://www.youtube.com/watch?v=qRUTWc08WXE) | 21:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_qRUTWc08WXE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_qRUTWc08WXE.txt) |
 | [【小岛浪吹】林郑月娥放弃连任，新特首上台，聊聊香港的第一位女特首是如何成长上位，以及为什么历任特首都无法扭转局面](https://www.youtube.com/watch?v=puL68GSwyrc) | 20:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_puL68GSwyrc.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_puL68GSwyrc.txt) |
-| [【小岛浪吹】蛤派崛起之沪上王入京登顶，最猛海派小将落难，人生自古两难全](https://www.youtube.com/watch?v=lXCzxMnyers) | 23:07 | 待转写 | — | — |
+| [【小岛浪吹】蛤派崛起之沪上王入京登顶，最猛海派小将落难，人生自古两难全](https://www.youtube.com/watch?v=lXCzxMnyers) | 23:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_lXCzxMnyers.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_lXCzxMnyers.txt) |
 | [【小岛浪吹】目前吹点最密集的一期，为什么王思聪被封，北京疫情的数据有什么特殊，上海新冠死亡率是多少，科兴疫苗到底怎么样，股票为啥老亏，赵立坚为什么开始吹中美人民的友谊了](https://www.youtube.com/watch?v=qCvCkgTXWEU) | 21:52 | 待转写 | — | — |
 | [【小岛浪吹】上海帮之最强小弟，党和国家领导人，民意支持度最高的上海市委书记是如何获得权力，然后被送进秦城监狱的（上）](https://www.youtube.com/watch?v=b5J1aDqjM1g) | 24:19 | 待转写 | — | — |
 | [【小岛浪吹】为什么上海的抗疫政策可以特殊化，为什么上海封城效果差，未来中国疫情会如何收场](https://www.youtube.com/watch?v=RAEwmTOXRXE) | 20:39 | 待转写 | — | — |
