@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 166，待转写 67，失败待处理 0，文件不完整 0。
+共 233 条：已转写 167，待转写 66，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -174,7 +174,7 @@
 | [【小岛浪吹】一个视频讲清楚法轮功的发展和衰败，法轮功到底是不是邪教，中共到底应不应该镇压法轮功](https://www.youtube.com/watch?v=rV79TywQxC4) | 21:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_rV79TywQxC4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_rV79TywQxC4.txt) |
 | [【小岛浪吹】软核翻墙指南，中国政府到底是希望人民翻墙，还是不希望，在国外的你需要翻墙回中国吗？](https://www.youtube.com/watch?v=3WT6k3ADtoQ) | 18:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_3WT6k3ADtoQ.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_3WT6k3ADtoQ.txt) |
 | [【小岛浪吹】被打警告！千万别在他人分享美食时转发该视频！最骚气的一期，为什么印度人觉得牛尿可以治疗新冠，为什么说台湾的疫情处理还不如印度](https://www.youtube.com/watch?v=Wp3__T9Um2c) | 15:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Wp3__T9Um2c.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Wp3__T9Um2c.txt) |
-| [【小岛浪吹】躺平是正义还是抗议？全面三胎到底有没有作用？你的人生还是你自己做主，对自己负责](https://www.youtube.com/watch?v=TDwoQ3OGC2A) | 17:38 | 待转写 | — | — |
+| [【小岛浪吹】躺平是正义还是抗议？全面三胎到底有没有作用？你的人生还是你自己做主，对自己负责](https://www.youtube.com/watch?v=TDwoQ3OGC2A) | 17:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_TDwoQ3OGC2A.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_TDwoQ3OGC2A.txt) |
 | [【小岛浪吹】聊聊两岸的两位无双国士，到底什么样的人才算国士无双，袁隆平的争议到底有哪些](https://www.youtube.com/watch?v=Tb9DsgzB6w8) | 16:26 | 待转写 | — | — |
 | [【小岛浪吹】水电疫情三大助攻，恭喜柯文哲即将当选2024中华民国南方偏安政权总话事人](https://www.youtube.com/watch?v=L5ISdFfV2jI) | 16:37 | 待转写 | — | — |
 | [【小岛浪吹】为什么中国的互联网券商在新加坡和美国扩展这么快，你扮演了消费者还是商品？](https://www.youtube.com/watch?v=WCp6nAe0REQ) | 16:31 | 待转写 | — | — |
