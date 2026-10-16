@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 176，待转写 57，失败待处理 0，文件不完整 0。
+共 233 条：已转写 177，待转写 56，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -184,7 +184,7 @@
 | [【小岛浪吹】李光耀亲共吗？为什么东南亚共产党在新加坡和马来西亚都失败了](https://www.youtube.com/watch?v=ds8sbBj6JgA) | 17:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ds8sbBj6JgA.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ds8sbBj6JgA.txt) |
 | [【小岛浪喷】忍不了了，核废水无害？日本凭什么用福岛核废水绑架全世界，请大家一起发声：我反对！](https://www.youtube.com/watch?v=8Kd7ipfvZLw) | 18:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_8Kd7ipfvZLw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_8Kd7ipfvZLw.txt) |
 | [【小岛浪吹】为什么中国的爱国和欧美的爱国不同，中国的80，90，00后怎么就都不按正常国家的剧本走了呢（下）](https://www.youtube.com/watch?v=WI-oqL-hfDo) | 16:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_WI-oqL-hfDo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_WI-oqL-hfDo.txt) |
-| [【小岛浪吹】小米造车和中国互联网造车，有戏吗](https://www.youtube.com/watch?v=UpJR80bG6vw) | 16:41 | 待转写 | — | — |
+| [【小岛浪吹】小米造车和中国互联网造车，有戏吗](https://www.youtube.com/watch?v=UpJR80bG6vw) | 16:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_UpJR80bG6vw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_UpJR80bG6vw.txt) |
 | [【小岛浪吹】为什么海外华人对中国评价两极分化，中国的80，90，00后怎么就都不按正常国家的剧本走了呢（上）](https://www.youtube.com/watch?v=fkT_ujirNNs) | 18:44 | 待转写 | — | — |
 | [【小岛浪吹】中美阿拉斯加对话（骂），到底谁赢了，谁吃了亏，第二版（累）](https://www.youtube.com/watch?v=VP4iP9HdkJE) | 15:04 | 待转写 | — | — |
 | [【小岛浪吹】一菠未平，一蕉又起，为什么国民党和民进党都不管台湾农民死活，台湾农民只错了一件事](https://www.youtube.com/watch?v=SKBILP4sJc4) | 15:36 | 待转写 | — | — |
