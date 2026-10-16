@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 116，待转写 117，失败待处理 0，文件不完整 0。
+共 233 条：已转写 117，待转写 116，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -124,7 +124,7 @@
 | [【小岛浪吹】佩洛西顺利抵台，安全离台，如果是毛泽东会怎么做？为大家回顾前三次台海危机，以及预演第四次危机](https://www.youtube.com/watch?v=ZEACiRmzI18) | 21:59 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ZEACiRmzI18.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ZEACiRmzI18.txt) |
 | [【小岛浪吹】中国收复台湾几率急剧上升，胡乱论证拜登中东被羞辱，美联储加息，佩洛西访台，中国村镇银行暴雷，烂尾楼与收复台湾的关系](https://www.youtube.com/watch?v=lJqRO8ZU6gk) | 20:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_lJqRO8ZU6gk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_lJqRO8ZU6gk.txt) |
 | [【小岛浪吹】安倍晋三离世！聊聊真动漫大男主，日本最强血脉，安倍晋三的登顶记（你为安倍难过了吗？）](https://www.youtube.com/watch?v=xkGH1dWRk0Q) | 22:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_xkGH1dWRk0Q.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_xkGH1dWRk0Q.txt) |
-| [【小岛浪吹】李佳琦，赛雷（目前已解封）也被封了，聊聊为什么中国自媒体越来越难混，以及新东方直播间的未来](https://www.youtube.com/watch?v=abUh7y5iX-4) | 20:28 | 待转写 | — | — |
+| [【小岛浪吹】李佳琦，赛雷（目前已解封）也被封了，聊聊为什么中国自媒体越来越难混，以及新东方直播间的未来](https://www.youtube.com/watch?v=abUh7y5iX-4) | 20:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_abUh7y5iX-4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_abUh7y5iX-4.txt) |
 | [【小岛浪吹】唐山的黑社会问题为什么这么严重，中国为什么无法根除黑社会问题](https://www.youtube.com/watch?v=6ZIdWiOU9f4) | 21:05 | 待转写 | — | — |
 | [【小岛浪吹】全网第一手消息，历时半年多的非正经业余意见征集，在清零问题上，你开小差了吗？](https://www.youtube.com/watch?v=qRUTWc08WXE) | 21:55 | 待转写 | — | — |
 | [【小岛浪吹】林郑月娥放弃连任，新特首上台，聊聊香港的第一位女特首是如何成长上位，以及为什么历任特首都无法扭转局面](https://www.youtube.com/watch?v=puL68GSwyrc) | 20:23 | 待转写 | — | — |
