@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 198，待转写 35，失败待处理 0，文件不完整 0。
+共 233 条：已转写 199，待转写 34，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -206,7 +206,7 @@
 | [【小岛浪吹】电商直播不管控，中国经济难好，消费降级新引擎，不得不防](https://www.youtube.com/watch?v=9k2BfH-6C-w) | 15:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_9k2BfH-6C-w.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_9k2BfH-6C-w.txt) |
 | [【小岛浪吹】WTO，TPP，RCEP真的有好处吗，一堆国家到底谁赚谁亏了？](https://www.youtube.com/watch?v=AzYD19EXtbA) | 14:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_AzYD19EXtbA.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_AzYD19EXtbA.txt) |
 | [【小岛浪吹】中美新冠疫苗的差别，美国辉瑞疫苗为什么让股市暴涨，而中国疫苗却没有](https://www.youtube.com/watch?v=I39juEpxXsE) | 13:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_I39juEpxXsE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_I39juEpxXsE.txt) |
-| [【小岛浪吹】马云的蚂蚁金服IPO被暂停，马云与中国政府各自的考量是什么？](https://www.youtube.com/watch?v=RycK-_J5HlE) | 17:17 | 待转写 | — | — |
+| [【小岛浪吹】马云的蚂蚁金服IPO被暂停，马云与中国政府各自的考量是什么？](https://www.youtube.com/watch?v=RycK-_J5HlE) | 17:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_RycK-_J5HlE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_RycK-_J5HlE.txt) |
 | [【小岛浪吹】我的公司大裁员，老板都打包走人了，新加坡的裁员潮来了？如何才能不被炒鱿鱼，什么原因导致被裁员？](https://www.youtube.com/watch?v=Q82yXbwVKcI) | 13:42 | 待转写 | — | — |
 | [【小岛浪吹】习大大决定搞量子科技了，量子科技到底是个啥，为什么爱因斯坦都栽了跟头](https://www.youtube.com/watch?v=AV3THsVRnok) | 16:01 | 待转写 | — | — |
 | [【小岛浪吹】美国独立战争只是为了自由？华盛顿不愿意做皇帝？历史这个小姑娘，想怎么化就怎么化](https://www.youtube.com/watch?v=9jWp0lT4q-4) | 15:58 | 待转写 | — | — |
