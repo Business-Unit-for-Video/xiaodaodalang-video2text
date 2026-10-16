@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 160，待转写 73，失败待处理 0，文件不完整 0。
+共 233 条：已转写 161，待转写 72，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -168,7 +168,7 @@
 | [【小岛浪吹】中国如何从体育弱国变成奥运会金牌大户，为什么美国的金牌第一有点不稳](https://www.youtube.com/watch?v=Y2KQ5zVGiU0) | 17:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Y2KQ5zVGiU0.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Y2KQ5zVGiU0.txt) |
 | [【小岛浪吹】中国教育改革“双减”能成功吗，你愿意生三胎吗，聊聊中国近几年的几个失误](https://www.youtube.com/watch?v=USzousYFqLc) | 16:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_USzousYFqLc.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_USzousYFqLc.txt) |
 | [【小岛浪吹】一个视频说清楚一国两制的前世今生，五十年不变到底变没变，未来一国两制还会继续吗](https://www.youtube.com/watch?v=XndVHtZ0Cmg) | 17:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_XndVHtZ0Cmg.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_XndVHtZ0Cmg.txt) |
-| [【小岛浪吹】中国千万级大V回形针被全网封杀，自媒体到底怎么赚钱，能赚多少钱，对自媒体严格监管到底对不对](https://www.youtube.com/watch?v=CdXZ8FbVhDw) | 18:39 | 待转写 | — | — |
+| [【小岛浪吹】中国千万级大V回形针被全网封杀，自媒体到底怎么赚钱，能赚多少钱，对自媒体严格监管到底对不对](https://www.youtube.com/watch?v=CdXZ8FbVhDw) | 18:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_CdXZ8FbVhDw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_CdXZ8FbVhDw.txt) |
 | [【小岛浪吹】同时被中国和美国暴打的滴滴，到底犯了什么忌讳，欢迎大家一起来吹一吹](https://www.youtube.com/watch?v=vKUSWoEjmr8) | 17:22 | 待转写 | — | — |
 | [【小岛浪吹】后法轮功时代，华人极右翼媒体的诞生，法轮功的钱到底从哪儿来，到底在下一盘怎样的大棋，请为法轮功点赞](https://www.youtube.com/watch?v=VgS--vVrdsI) | 19:12 | 待转写 | — | — |
 | [【小岛浪吹】一个视频讲清楚法轮功的发展和衰败，法轮功到底是不是邪教，中共到底应不应该镇压法轮功](https://www.youtube.com/watch?v=rV79TywQxC4) | 21:23 | 待转写 | — | — |
