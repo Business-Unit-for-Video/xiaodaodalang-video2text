@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 212，待转写 21，失败待处理 0，文件不完整 0。
+共 233 条：已转写 213，待转写 20，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -220,7 +220,7 @@
 | [【2020二十四期】新加坡建国总理李光耀对中美关系的六个预言，预言甚至包括台湾统独问题](https://www.youtube.com/watch?v=yQ0AQ04QVrM) | 16:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_yQ0AQ04QVrM.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_yQ0AQ04QVrM.txt) |
 | [【2020二十三期】新加坡总理李显龙早就预测到如今的中美冲突，比各种专家智库说的清楚的多](https://www.youtube.com/watch?v=ZF3s5DNNaRs) | 15:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ZF3s5DNNaRs.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ZF3s5DNNaRs.txt) |
 | [【2020二十二期】海外第一个华人国家想加入中国反被拒，为何清朝坐视华人国家被灭，海外华人又为何无法团结](https://www.youtube.com/watch?v=zSDG9S8aXyA) | 13:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_zSDG9S8aXyA.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_zSDG9S8aXyA.txt) |
-| [【2020二十一期】新移民如何看待新加坡2020选举，执政党大胜还是反对党占优？](https://www.youtube.com/watch?v=ntEoEELjYXA) | 12:13 | 待转写 | — | — |
+| [【2020二十一期】新移民如何看待新加坡2020选举，执政党大胜还是反对党占优？](https://www.youtube.com/watch?v=ntEoEELjYXA) | 12:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ntEoEELjYXA.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ntEoEELjYXA.txt) |
 | [【2020二十期】联合国五大流氓有多没下限，小国家有什么办法对付他们吗](https://www.youtube.com/watch?v=0Yk1w8Ed2yo) | 14:19 | 待转写 | — | — |
 | [【2020十九期】为什么新加坡与香港房价走势差别这么大，这个原因你想过吗？](https://www.youtube.com/watch?v=D33ddSkd3mo) | 13:49 | 待转写 | — | — |
 | [【2020十八期】中国又双叒要开发海南岛了，对新加坡与香港影响大吗？](https://www.youtube.com/watch?v=qs2T4z_8thw) | 14:53 | 待转写 | — | — |
