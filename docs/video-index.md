@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 196，待转写 37，失败待处理 0，文件不完整 0。
+共 233 条：已转写 197，待转写 36，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -204,7 +204,7 @@
 | [【小岛浪吹】嫦娥五号登月，中国知乎与美国Quora上的网友怎么看](https://www.youtube.com/watch?v=YoGe7COhYvI) | 14:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_YoGe7COhYvI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_YoGe7COhYvI.txt) |
 | [【小岛浪吹】翻墙违法吗，墙在保护谁，你觉得墙合理吗？](https://www.youtube.com/watch?v=n7JaBVDzblQ) | 15:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_n7JaBVDzblQ.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_n7JaBVDzblQ.txt) |
 | [【小岛浪吹】电商直播不管控，中国经济难好，消费降级新引擎，不得不防](https://www.youtube.com/watch?v=9k2BfH-6C-w) | 15:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_9k2BfH-6C-w.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_9k2BfH-6C-w.txt) |
-| [【小岛浪吹】WTO，TPP，RCEP真的有好处吗，一堆国家到底谁赚谁亏了？](https://www.youtube.com/watch?v=AzYD19EXtbA) | 14:57 | 待转写 | — | — |
+| [【小岛浪吹】WTO，TPP，RCEP真的有好处吗，一堆国家到底谁赚谁亏了？](https://www.youtube.com/watch?v=AzYD19EXtbA) | 14:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_AzYD19EXtbA.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_AzYD19EXtbA.txt) |
 | [【小岛浪吹】中美新冠疫苗的差别，美国辉瑞疫苗为什么让股市暴涨，而中国疫苗却没有](https://www.youtube.com/watch?v=I39juEpxXsE) | 13:49 | 待转写 | — | — |
 | [【小岛浪吹】马云的蚂蚁金服IPO被暂停，马云与中国政府各自的考量是什么？](https://www.youtube.com/watch?v=RycK-_J5HlE) | 17:17 | 待转写 | — | — |
 | [【小岛浪吹】我的公司大裁员，老板都打包走人了，新加坡的裁员潮来了？如何才能不被炒鱿鱼，什么原因导致被裁员？](https://www.youtube.com/watch?v=Q82yXbwVKcI) | 13:42 | 待转写 | — | — |
