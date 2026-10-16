@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 216，待转写 17，失败待处理 0，文件不完整 0。
+共 233 条：已转写 217，待转写 16，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -224,7 +224,7 @@
 | [【2020二十期】联合国五大流氓有多没下限，小国家有什么办法对付他们吗](https://www.youtube.com/watch?v=0Yk1w8Ed2yo) | 14:19 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_0Yk1w8Ed2yo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_0Yk1w8Ed2yo.txt) |
 | [【2020十九期】为什么新加坡与香港房价走势差别这么大，这个原因你想过吗？](https://www.youtube.com/watch?v=D33ddSkd3mo) | 13:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_D33ddSkd3mo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_D33ddSkd3mo.txt) |
 | [【2020十八期】中国又双叒要开发海南岛了，对新加坡与香港影响大吗？](https://www.youtube.com/watch?v=qs2T4z_8thw) | 14:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_qs2T4z_8thw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_qs2T4z_8thw.txt) |
-| [【2020十七期】香港与新加坡，两个极度相似的城市，为什么如今拥有不一样的命运](https://www.youtube.com/watch?v=4PQDPaJ2GEs) | 14:41 | 待转写 | — | — |
+| [【2020十七期】香港与新加坡，两个极度相似的城市，为什么如今拥有不一样的命运](https://www.youtube.com/watch?v=4PQDPaJ2GEs) | 14:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_4PQDPaJ2GEs.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_4PQDPaJ2GEs.txt) |
 | [【2020十六期】一个在海外长大的华人谈谈对六四的看法，无法保证绝对的中立](https://www.youtube.com/watch?v=w8zEOnmecp0) | 21:57 | 待转写 | — | — |
 | [【2020十五期】两种不同的教育，最有效率的阶级划分](https://www.youtube.com/watch?v=p291o7r1Qis) | 15:03 | 待转写 | — | — |
 | [【2020十四期】新加坡为什么能拥有两所世界顶尖的大学，新加坡为了教育做出了什么样的努力](https://www.youtube.com/watch?v=O3G-FYIvhuw) | 16:01 | 待转写 | — | — |
