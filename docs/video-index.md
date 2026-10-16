@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 138，待转写 95，失败待处理 0，文件不完整 0。
+共 233 条：已转写 139，待转写 94，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -146,7 +146,7 @@
 | [【小岛浪吹】为什么中国许多文化人会有“高级审美”，是不是“辱华”，作为普通人的你怎么想的？](https://www.youtube.com/watch?v=DaDkxZIpj_M) | 17:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_DaDkxZIpj_M.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_DaDkxZIpj_M.txt) |
 | [【小岛浪吹】亲身经历！根据我被美国油管黄标，以及中国B站封号，来聊聊无处不在的举报](https://www.youtube.com/watch?v=G06SAXlbbL0) | 18:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_G06SAXlbbL0.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_G06SAXlbbL0.txt) |
 | [【小岛浪吹】（反黄标特别版）全世界都不喜欢中国人？中国到底做了什么，作为中国人应该做点什么](https://www.youtube.com/watch?v=abv2S2sO6Uk) | 18:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_abv2S2sO6Uk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_abv2S2sO6Uk.txt) |
-| [【小岛浪吹】全世界都不喜欢中国人？中国到底做了什么，作为中国人应该做点什么](https://www.youtube.com/watch?v=EanGRa9LJS0) | 18:21 | 待转写 | — | — |
+| [【小岛浪吹】全世界都不喜欢中国人？中国到底做了什么，作为中国人应该做点什么](https://www.youtube.com/watch?v=EanGRa9LJS0) | 18:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_EanGRa9LJS0.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_EanGRa9LJS0.txt) |
 | [【小岛浪吹】毛泽东传1：叛逆中二少年从山村走向城市，聊聊少年毛泽东的不足，成长，婚姻以及导师](https://www.youtube.com/watch?v=ecAZThYr6Xo) | 19:46 | 待转写 | — | — |
 | [【小岛浪吹】蔡英文的学历门，她到底有没有欺骗台湾人，为什么连深绿都无法击败她](https://www.youtube.com/watch?v=pVzLqgWH-Lg) | 18:46 | 待转写 | — | — |
 | [【小岛浪吹】曾经专情保守的安静美少女，如何变成了让台独教授都要逃亡美国的“台禧宗”](https://www.youtube.com/watch?v=ath3v1KFoTs) | 19:52 | 待转写 | — | — |
