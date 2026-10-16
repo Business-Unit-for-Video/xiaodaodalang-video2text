@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 147，待转写 86，失败待处理 0，文件不完整 0。
+共 233 条：已转写 148，待转写 85，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -155,7 +155,7 @@
 | [【小岛浪吹】目前尺度最大的一期，这么多年你都白嫖了，原来里面有这么多牛B](https://www.youtube.com/watch?v=OX4cUETk5Ek) | 20:32 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_OX4cUETk5Ek.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_OX4cUETk5Ek.txt) |
 | [【小岛浪吹】（可惜了薇娅没看）中国为什么急着推房地产税，你所在的阶级会受到什么样的影响](https://www.youtube.com/watch?v=OPl30glS4iM) | 19:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_OPl30glS4iM.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_OPl30glS4iM.txt) |
 | [【小岛浪吹】美国的金融霸权到底怎么来的，中国能否取代美国，台湾会因此受什么影响](https://www.youtube.com/watch?v=iIO3voLwCk0) | 20:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_iIO3voLwCk0.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_iIO3voLwCk0.txt) |
-| [【小岛浪吹】为什么中国各届领导人都没收复台湾，习近平会在任上武统台湾吗](https://www.youtube.com/watch?v=nNnmPC4HsEM) | 21:05 | 待转写 | — | — |
+| [【小岛浪吹】为什么中国各届领导人都没收复台湾，习近平会在任上武统台湾吗](https://www.youtube.com/watch?v=nNnmPC4HsEM) | 21:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_nNnmPC4HsEM.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_nNnmPC4HsEM.txt) |
 | [【小岛浪吹】国民党为什么骗了中国人几十年，到最后不肯反攻大陆](https://www.youtube.com/watch?v=ajX5R4QO9G8) | 20:29 | 待转写 | — | — |
 | [【小岛浪吹】又被中国打脸！为什么发电量世界第一的中国会缺电，中国限电是不是大棋？](https://www.youtube.com/watch?v=o7qih0EoGOE) | 19:27 | 待转写 | — | — |
 | [【小岛浪吹】视中国为一生之敌的澳洲即将成有核国家了，谈谈英美澳背刺法国组建AUKUS，澳洲南玻万，台湾躺枪](https://www.youtube.com/watch?v=08DwDi7cfT8) | 18:27 | 待转写 | — | — |
