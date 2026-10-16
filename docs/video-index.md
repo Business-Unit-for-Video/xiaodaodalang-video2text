@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 150，待转写 83，失败待处理 0，文件不完整 0。
+共 233 条：已转写 151，待转写 82，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -158,7 +158,7 @@
 | [【小岛浪吹】为什么中国各届领导人都没收复台湾，习近平会在任上武统台湾吗](https://www.youtube.com/watch?v=nNnmPC4HsEM) | 21:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_nNnmPC4HsEM.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_nNnmPC4HsEM.txt) |
 | [【小岛浪吹】国民党为什么骗了中国人几十年，到最后不肯反攻大陆](https://www.youtube.com/watch?v=ajX5R4QO9G8) | 20:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ajX5R4QO9G8.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ajX5R4QO9G8.txt) |
 | [【小岛浪吹】又被中国打脸！为什么发电量世界第一的中国会缺电，中国限电是不是大棋？](https://www.youtube.com/watch?v=o7qih0EoGOE) | 19:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_o7qih0EoGOE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_o7qih0EoGOE.txt) |
-| [【小岛浪吹】视中国为一生之敌的澳洲即将成有核国家了，谈谈英美澳背刺法国组建AUKUS，澳洲南玻万，台湾躺枪](https://www.youtube.com/watch?v=08DwDi7cfT8) | 18:27 | 待转写 | — | — |
+| [【小岛浪吹】视中国为一生之敌的澳洲即将成有核国家了，谈谈英美澳背刺法国组建AUKUS，澳洲南玻万，台湾躺枪](https://www.youtube.com/watch?v=08DwDi7cfT8) | 18:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_08DwDi7cfT8.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_08DwDi7cfT8.txt) |
 | [【小岛浪吹】与病毒共存与病毒清零的原因是什么，为什么大部分国家不愿意学中国](https://www.youtube.com/watch?v=YVgusaLiB-s) | 18:14 | 待转写 | — | — |
 | [【小岛浪吹】房价不能涨，也不准降，聊聊现在中国房地产的转向，中央与地方的博弈，以及普通人怎么赚一笔](https://www.youtube.com/watch?v=aPFmF5sSXto) | 19:57 | 待转写 | — | — |
 | [【小岛浪吹】脑洞最大的一期，从郑爽，第三次财富分配，取消996，未成年人游戏受限，中产家庭资产上升，推导出赵薇被封杀的终极原因](https://www.youtube.com/watch?v=5CszS8xHCKk) | 18:16 | 待转写 | — | — |
