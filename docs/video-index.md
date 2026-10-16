@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 163，待转写 70，失败待处理 0，文件不完整 0。
+共 233 条：已转写 164，待转写 69，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -171,7 +171,7 @@
 | [【小岛浪吹】中国千万级大V回形针被全网封杀，自媒体到底怎么赚钱，能赚多少钱，对自媒体严格监管到底对不对](https://www.youtube.com/watch?v=CdXZ8FbVhDw) | 18:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_CdXZ8FbVhDw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_CdXZ8FbVhDw.txt) |
 | [【小岛浪吹】同时被中国和美国暴打的滴滴，到底犯了什么忌讳，欢迎大家一起来吹一吹](https://www.youtube.com/watch?v=vKUSWoEjmr8) | 17:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_vKUSWoEjmr8.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_vKUSWoEjmr8.txt) |
 | [【小岛浪吹】后法轮功时代，华人极右翼媒体的诞生，法轮功的钱到底从哪儿来，到底在下一盘怎样的大棋，请为法轮功点赞](https://www.youtube.com/watch?v=VgS--vVrdsI) | 19:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_VgS--vVrdsI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_VgS--vVrdsI.txt) |
-| [【小岛浪吹】一个视频讲清楚法轮功的发展和衰败，法轮功到底是不是邪教，中共到底应不应该镇压法轮功](https://www.youtube.com/watch?v=rV79TywQxC4) | 21:23 | 待转写 | — | — |
+| [【小岛浪吹】一个视频讲清楚法轮功的发展和衰败，法轮功到底是不是邪教，中共到底应不应该镇压法轮功](https://www.youtube.com/watch?v=rV79TywQxC4) | 21:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_rV79TywQxC4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_rV79TywQxC4.txt) |
 | [【小岛浪吹】软核翻墙指南，中国政府到底是希望人民翻墙，还是不希望，在国外的你需要翻墙回中国吗？](https://www.youtube.com/watch?v=3WT6k3ADtoQ) | 18:10 | 待转写 | — | — |
 | [【小岛浪吹】被打警告！千万别在他人分享美食时转发该视频！最骚气的一期，为什么印度人觉得牛尿可以治疗新冠，为什么说台湾的疫情处理还不如印度](https://www.youtube.com/watch?v=Wp3__T9Um2c) | 15:12 | 待转写 | — | — |
 | [【小岛浪吹】躺平是正义还是抗议？全面三胎到底有没有作用？你的人生还是你自己做主，对自己负责](https://www.youtube.com/watch?v=TDwoQ3OGC2A) | 17:38 | 待转写 | — | — |
