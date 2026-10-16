@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 180，待转写 53，失败待处理 0，文件不完整 0。
+共 233 条：已转写 181，待转写 52，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -188,7 +188,7 @@
 | [【小岛浪吹】为什么海外华人对中国评价两极分化，中国的80，90，00后怎么就都不按正常国家的剧本走了呢（上）](https://www.youtube.com/watch?v=fkT_ujirNNs) | 18:44 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_fkT_ujirNNs.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_fkT_ujirNNs.txt) |
 | [【小岛浪吹】中美阿拉斯加对话（骂），到底谁赢了，谁吃了亏，第二版（累）](https://www.youtube.com/watch?v=VP4iP9HdkJE) | 15:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_VP4iP9HdkJE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_VP4iP9HdkJE.txt) |
 | [【小岛浪吹】一菠未平，一蕉又起，为什么国民党和民进党都不管台湾农民死活，台湾农民只错了一件事](https://www.youtube.com/watch?v=SKBILP4sJc4) | 15:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_SKBILP4sJc4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_SKBILP4sJc4.txt) |
-| [【小岛浪吹】瞌睡乔让我有点惆怅，美国凭什么跑来新加坡收我的税，到底是美国霸权，还是美国衰落](https://www.youtube.com/watch?v=TbYpKlabY3k) | 16:08 | 待转写 | — | — |
+| [【小岛浪吹】瞌睡乔让我有点惆怅，美国凭什么跑来新加坡收我的税，到底是美国霸权，还是美国衰落](https://www.youtube.com/watch?v=TbYpKlabY3k) | 16:08 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_TbYpKlabY3k.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_TbYpKlabY3k.txt) |
 | [【小岛浪吹】外人怎么看台湾228，为什么共产党，国民党，民进党都有不同的解释](https://www.youtube.com/watch?v=8vue-7RdAUE) | 16:47 | 待转写 | — | — |
 | [【小岛特别版】看到就是赚到，在新加坡，正常工资的我是如何在30岁前买上两套公寓的，普通人都可以尝试！](https://www.youtube.com/watch?v=FfZyTrJ3pbw) | 17:50 | 待转写 | — | — |
 | [【小岛浪吹】求保护！小岛冒死来聊聊女权的发展，还有神奇的中华田园女拳](https://www.youtube.com/watch?v=QID2umkmlIM) | 16:36 | 待转写 | — | — |
