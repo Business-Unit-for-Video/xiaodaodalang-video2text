@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 172，待转写 61，失败待处理 0，文件不完整 0。
+共 233 条：已转写 173，待转写 60，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -180,7 +180,7 @@
 | [【小岛浪吹】为什么中国的互联网券商在新加坡和美国扩展这么快，你扮演了消费者还是商品？](https://www.youtube.com/watch?v=WCp6nAe0REQ) | 16:31 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_WCp6nAe0REQ.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_WCp6nAe0REQ.txt) |
 | [【小岛浪吹】人口普查结果出炉，中国数据造假？又双叒叕崩溃了？你愿意为了国家多生几个吗？](https://www.youtube.com/watch?v=zvBRrqx-KV0) | 16:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_zvBRrqx-KV0.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_zvBRrqx-KV0.txt) |
 | [【小岛浪吹】怎么川普和拜登都带不动巴菲特的伯克希尔，你觉得今年老巴有机会翻身不，今年的股东大会你看了吗](https://www.youtube.com/watch?v=d5ahLZCW97c) | 14:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_d5ahLZCW97c.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_d5ahLZCW97c.txt) |
-| [【小岛浪吹】让我感到害怕的印度疫情，又一波新病毒向我们袭来，到底什么时候我们才能恢复正常的生活](https://www.youtube.com/watch?v=AUL-E4SrPkk) | 16:09 | 待转写 | — | — |
+| [【小岛浪吹】让我感到害怕的印度疫情，又一波新病毒向我们袭来，到底什么时候我们才能恢复正常的生活](https://www.youtube.com/watch?v=AUL-E4SrPkk) | 16:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_AUL-E4SrPkk.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_AUL-E4SrPkk.txt) |
 | [【小岛浪吹】李光耀亲共吗？为什么东南亚共产党在新加坡和马来西亚都失败了](https://www.youtube.com/watch?v=ds8sbBj6JgA) | 17:12 | 待转写 | — | — |
 | [【小岛浪喷】忍不了了，核废水无害？日本凭什么用福岛核废水绑架全世界，请大家一起发声：我反对！](https://www.youtube.com/watch?v=8Kd7ipfvZLw) | 18:23 | 待转写 | — | — |
 | [【小岛浪吹】为什么中国的爱国和欧美的爱国不同，中国的80，90，00后怎么就都不按正常国家的剧本走了呢（下）](https://www.youtube.com/watch?v=WI-oqL-hfDo) | 16:55 | 待转写 | — | — |
