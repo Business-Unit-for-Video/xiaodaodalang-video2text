@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 207，待转写 26，失败待处理 0，文件不完整 0。
+共 233 条：已转写 208，待转写 25，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -215,7 +215,7 @@
 | [【2020三十期】中国和高端光刻机的差距，想超越台积电前，一定要清醒的认识到自己的不足，嘴炮没办法强国！请听听华为董事长任正非说的！](https://www.youtube.com/watch?v=TU9rl1nkGxg) | 15:51 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_TU9rl1nkGxg.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_TU9rl1nkGxg.txt) |
 | [【2020二十九期】台积电正式断供华为，中国大陆有可能自建一个台积电吗，来谈谈台积电为什么能成功](https://www.youtube.com/watch?v=ZBCfO5tcKb8) | 16:24 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ZBCfO5tcKb8.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ZBCfO5tcKb8.txt) |
 | [【2020二十八期】全球化到底是什么，连新加坡都开始逆全球化了？听小岛来吹一吹中美新加坡三种不同的全球化](https://www.youtube.com/watch?v=Tocg3wInyAE) | 15:01 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Tocg3wInyAE.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Tocg3wInyAE.txt) |
-| [【2020二十七期】华为入场碳基芯片，中国半导体可以弯道超车了？天亮起床啦](https://www.youtube.com/watch?v=UeYT6WES0nY) | 14:04 | 待转写 | — | — |
+| [【2020二十七期】华为入场碳基芯片，中国半导体可以弯道超车了？天亮起床啦](https://www.youtube.com/watch?v=UeYT6WES0nY) | 14:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_UeYT6WES0nY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_UeYT6WES0nY.txt) |
 | [【2020二十五期】中国的半导体发展不起来，可不全是美国的问题](https://www.youtube.com/watch?v=jgQLhQRZIA4) | 14:26 | 待转写 | — | — |
 | [【2020二十四期】新加坡建国总理李光耀对中美关系的六个预言，预言甚至包括台湾统独问题](https://www.youtube.com/watch?v=yQ0AQ04QVrM) | 16:39 | 待转写 | — | — |
 | [【2020二十三期】新加坡总理李显龙早就预测到如今的中美冲突，比各种专家智库说的清楚的多](https://www.youtube.com/watch?v=ZF3s5DNNaRs) | 15:11 | 待转写 | — | — |
