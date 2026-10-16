@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 193，待转写 40，失败待处理 0，文件不完整 0。
+共 233 条：已转写 194，待转写 39，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -201,7 +201,7 @@
 | [【小岛浪吹】东南亚列弱之首，完美传承四川变脸术，来回狂扇中美耳光的神奇国度](https://www.youtube.com/watch?v=LttFt1XBDvw) | 17:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_LttFt1XBDvw.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_LttFt1XBDvw.txt) |
 | [【小岛浪吹】中国的商人地位，为什么最低下，被老百姓骂，被政府干](https://www.youtube.com/watch?v=py3KCc9tmcI) | 14:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_py3KCc9tmcI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_py3KCc9tmcI.txt) |
 | [【小岛浪吹】中芯国际内讧，一场台湾人的内战，还是中美冲突的牺牲品](https://www.youtube.com/watch?v=re4V-oXgj54) | 15:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_re4V-oXgj54.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_re4V-oXgj54.txt) |
-| [【小岛浪吹】嫦娥五号登月，中国知乎与美国Quora上的网友怎么看](https://www.youtube.com/watch?v=YoGe7COhYvI) | 14:12 | 待转写 | — | — |
+| [【小岛浪吹】嫦娥五号登月，中国知乎与美国Quora上的网友怎么看](https://www.youtube.com/watch?v=YoGe7COhYvI) | 14:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_YoGe7COhYvI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_YoGe7COhYvI.txt) |
 | [【小岛浪吹】翻墙违法吗，墙在保护谁，你觉得墙合理吗？](https://www.youtube.com/watch?v=n7JaBVDzblQ) | 15:50 | 待转写 | — | — |
 | [【小岛浪吹】电商直播不管控，中国经济难好，消费降级新引擎，不得不防](https://www.youtube.com/watch?v=9k2BfH-6C-w) | 15:15 | 待转写 | — | — |
 | [【小岛浪吹】WTO，TPP，RCEP真的有好处吗，一堆国家到底谁赚谁亏了？](https://www.youtube.com/watch?v=AzYD19EXtbA) | 14:57 | 待转写 | — | — |
