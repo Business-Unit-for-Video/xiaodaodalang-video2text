@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 202，待转写 31，失败待处理 0，文件不完整 0。
+共 233 条：已转写 203，待转写 30，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -210,7 +210,7 @@
 | [【小岛浪吹】我的公司大裁员，老板都打包走人了，新加坡的裁员潮来了？如何才能不被炒鱿鱼，什么原因导致被裁员？](https://www.youtube.com/watch?v=Q82yXbwVKcI) | 13:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Q82yXbwVKcI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Q82yXbwVKcI.txt) |
 | [【小岛浪吹】习大大决定搞量子科技了，量子科技到底是个啥，为什么爱因斯坦都栽了跟头](https://www.youtube.com/watch?v=AV3THsVRnok) | 16:01 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_AV3THsVRnok.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_AV3THsVRnok.txt) |
 | [【小岛浪吹】美国独立战争只是为了自由？华盛顿不愿意做皇帝？历史这个小姑娘，想怎么化就怎么化](https://www.youtube.com/watch?v=9jWp0lT4q-4) | 15:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_9jWp0lT4q-4.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_9jWp0lT4q-4.txt) |
-| [【小岛浪吹】半导体终章，回应大陆与台湾观众质疑，台积电背后的男人，中国大陆的科技产业还有没有希望](https://www.youtube.com/watch?v=ghaR8k7Nd6k) | 14:00 | 待转写 | — | — |
+| [【小岛浪吹】半导体终章，回应大陆与台湾观众质疑，台积电背后的男人，中国大陆的科技产业还有没有希望](https://www.youtube.com/watch?v=ghaR8k7Nd6k) | 14:00 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ghaR8k7Nd6k.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ghaR8k7Nd6k.txt) |
 | [【小岛浪吹】从中国足球论Intel为什么会输给台积电，中国想自建台积电还需什么](https://www.youtube.com/watch?v=mhFqeXBafWk) | 16:00 | 待转写 | — | — |
 | [【2020三十期】中国和高端光刻机的差距，想超越台积电前，一定要清醒的认识到自己的不足，嘴炮没办法强国！请听听华为董事长任正非说的！](https://www.youtube.com/watch?v=TU9rl1nkGxg) | 15:51 | 待转写 | — | — |
 | [【2020二十九期】台积电正式断供华为，中国大陆有可能自建一个台积电吗，来谈谈台积电为什么能成功](https://www.youtube.com/watch?v=ZBCfO5tcKb8) | 16:24 | 待转写 | — | — |
