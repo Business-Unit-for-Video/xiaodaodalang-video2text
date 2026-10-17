@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "finished",
+  "note": "one video processed, no more pending",
   "destination": "xiaodaodalang",
   "channel_url": "https://www.youtube.com/@xiaodaodalang",
   "include_members": false,
   "queue_total": 233,
-  "queue_index": 232,
-  "updated_at": 1792198786,
-  "updated_at_readable": "2026-10-17 00:59:46",
-  "current_video_id": "B9D070yOihI",
-  "current_title": "【2020第二吹】新冠状疫情会消失吗？当年的SARS疫情是如何消失的？人类到底做了什么？可以复制吗？",
-  "current_url": "https://www.youtube.com/watch?v=B9D070yOihI",
+  "queue_index": 233,
+  "updated_at": 1792199024,
+  "updated_at_readable": "2026-10-17 01:03:44",
+  "current_video_id": "FMapyhp1qUY",
+  "current_title": "【2020第一吹】为什么女朋友爱买包，为什么买股票爱追高，原来科学都可以解释！（有字幕）",
+  "current_url": "https://www.youtube.com/watch?v=FMapyhp1qUY",
   "current_tab": "videos"
 }
