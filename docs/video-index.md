@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 223，待转写 10，失败待处理 0，文件不完整 0。
+共 233 条：已转写 224，待转写 9，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -231,7 +231,7 @@
 | [【2020第十三期】新加坡的九个神奇法律，有的是男人都会犯的错，政府是如何保证人民遵守严格法律呢](https://www.youtube.com/watch?v=M17ymtE6X5A) | 12:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_M17ymtE6X5A.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_M17ymtE6X5A.txt) |
 | [【2020第十二期】台湾与新加坡为什么从兄弟之邦到为了捐赠口罩生恨，中国大陆在其中扮演了什么样的角色](https://www.youtube.com/watch?v=B0bIV6VMvGI) | 14:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_B0bIV6VMvGI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_B0bIV6VMvGI.txt) |
 | [【2020第十一期】想要移民新加坡，千万不能做的6件事，来讲讲我朋友们的故事](https://www.youtube.com/watch?v=xp1JuEUjyKo) | 14:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_xp1JuEUjyKo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_xp1JuEUjyKo.txt) |
-| [【2020第十期】你真的适合移民吗？新加坡上海大对比，移民新加坡未必适合所有人](https://www.youtube.com/watch?v=Q0qFrkO7fBg) | 13:41 | 待转写 | — | — |
+| [【2020第十期】你真的适合移民吗？新加坡上海大对比，移民新加坡未必适合所有人](https://www.youtube.com/watch?v=Q0qFrkO7fBg) | 13:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Q0qFrkO7fBg.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Q0qFrkO7fBg.txt) |
 | [【2020第九期】巴菲特不讲，媒体不愿意说的致富秘诀，看完四个要点你就再也不会为投资亏钱难过了](https://www.youtube.com/watch?v=asPyiYclYFY) | 14:14 | 待转写 | — | — |
 | [【2020第八期】中美疫情状况为什么这么不一样，自由和生命你选哪个？](https://www.youtube.com/watch?v=cG79t7za1gg) | 15:59 | 待转写 | — | — |
 | [【2020第七期】史上第一次奥运延期，安倍在幕后做了哪些努力，疫情期间为何对中国态度大变](https://www.youtube.com/watch?v=VPK-tbUXIP4) | 13:05 | 待转写 | — | — |
