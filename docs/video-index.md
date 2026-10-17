@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 230，待转写 3，失败待处理 0，文件不完整 0。
+共 233 条：已转写 231，待转写 2，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -238,6 +238,6 @@
 | [【2020第六期】股市三大定律，财富自由的绊脚石](https://www.youtube.com/watch?v=jTKX12eVRCQ) | 12:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_jTKX12eVRCQ.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_jTKX12eVRCQ.txt) |
 | [【2020第五期】美股数度熔断，巴菲特却不小心笑出了声，股神这波又打算怎么操作？普通人能在熊市赚钱吗](https://www.youtube.com/watch?v=GuCj7ioVcAo) | 12:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_GuCj7ioVcAo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_GuCj7ioVcAo.txt) |
 | [【2020第四吹】为何世界第一的美国连给国民做病毒检测的能力都没有](https://www.youtube.com/watch?v=HrrtYchva4g) | 15:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_HrrtYchva4g.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_HrrtYchva4g.txt) |
-| [【2020 第三吹】起底引爆韩国疫情的“新天地”教会，一场韩国政府自作自受的爱国大秀](https://www.youtube.com/watch?v=BMie90w12xM) | 16:17 | 待转写 | — | — |
+| [【2020 第三吹】起底引爆韩国疫情的“新天地”教会，一场韩国政府自作自受的爱国大秀](https://www.youtube.com/watch?v=BMie90w12xM) | 16:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_BMie90w12xM.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_BMie90w12xM.txt) |
 | [【2020第二吹】新冠状疫情会消失吗？当年的SARS疫情是如何消失的？人类到底做了什么？可以复制吗？](https://www.youtube.com/watch?v=B9D070yOihI) | 11:16 | 待转写 | — | — |
 | [【2020第一吹】为什么女朋友爱买包，为什么买股票爱追高，原来科学都可以解释！（有字幕）](https://www.youtube.com/watch?v=FMapyhp1qUY) | 9:48 | 待转写 | — | — |
