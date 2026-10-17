@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 225，待转写 8，失败待处理 0，文件不完整 0。
+共 233 条：已转写 226，待转写 7，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -233,7 +233,7 @@
 | [【2020第十一期】想要移民新加坡，千万不能做的6件事，来讲讲我朋友们的故事](https://www.youtube.com/watch?v=xp1JuEUjyKo) | 14:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_xp1JuEUjyKo.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_xp1JuEUjyKo.txt) |
 | [【2020第十期】你真的适合移民吗？新加坡上海大对比，移民新加坡未必适合所有人](https://www.youtube.com/watch?v=Q0qFrkO7fBg) | 13:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_Q0qFrkO7fBg.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_Q0qFrkO7fBg.txt) |
 | [【2020第九期】巴菲特不讲，媒体不愿意说的致富秘诀，看完四个要点你就再也不会为投资亏钱难过了](https://www.youtube.com/watch?v=asPyiYclYFY) | 14:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_asPyiYclYFY.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_asPyiYclYFY.txt) |
-| [【2020第八期】中美疫情状况为什么这么不一样，自由和生命你选哪个？](https://www.youtube.com/watch?v=cG79t7za1gg) | 15:59 | 待转写 | — | — |
+| [【2020第八期】中美疫情状况为什么这么不一样，自由和生命你选哪个？](https://www.youtube.com/watch?v=cG79t7za1gg) | 15:59 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_cG79t7za1gg.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_cG79t7za1gg.txt) |
 | [【2020第七期】史上第一次奥运延期，安倍在幕后做了哪些努力，疫情期间为何对中国态度大变](https://www.youtube.com/watch?v=VPK-tbUXIP4) | 13:05 | 待转写 | — | — |
 | [【2020第六期】股市三大定律，财富自由的绊脚石](https://www.youtube.com/watch?v=jTKX12eVRCQ) | 12:10 | 待转写 | — | — |
 | [【2020第五期】美股数度熔断，巴菲特却不小心笑出了声，股神这波又打算怎么操作？普通人能在熊市赚钱吗](https://www.youtube.com/watch?v=GuCj7ioVcAo) | 12:27 | 待转写 | — | — |
