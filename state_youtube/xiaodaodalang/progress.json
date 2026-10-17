@@ -1,15 +1,11 @@
 {
   "status": "finished",
-  "note": "one video processed, no more pending",
+  "note": "all items completed",
   "destination": "xiaodaodalang",
   "channel_url": "https://www.youtube.com/@xiaodaodalang",
   "include_members": false,
   "queue_total": 233,
   "queue_index": 233,
-  "updated_at": 1792199024,
-  "updated_at_readable": "2026-10-17 01:03:44",
-  "current_video_id": "FMapyhp1qUY",
-  "current_title": "【2020第一吹】为什么女朋友爱买包，为什么买股票爱追高，原来科学都可以解释！（有字幕）",
-  "current_url": "https://www.youtube.com/watch?v=FMapyhp1qUY",
-  "current_tab": "videos"
+  "updated_at": 1792211003,
+  "updated_at_readable": "2026-10-17 04:23:23"
 }
