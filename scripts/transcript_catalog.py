@@ -41,6 +41,9 @@ def build_catalog(repo_root: Path) -> dict:
             "url": f"https://www.youtube.com/watch?v={video_id}",
             "duration": item.get("duration"),
             "tab": item.get("tab"),
+            "playlist_id": item.get("playlist_id"),
+            "playlist_title": item.get("playlist_title"),
+            "playlist_index": item.get("playlist_index"),
             "availability": item.get("availability"),
             "transcript_status": status,
             "plain_url": link(plain, plain_exists),
@@ -69,10 +72,10 @@ def build_catalog(repo_root: Path) -> dict:
         f"共 {len(records)} 条：已转写 {counts['completed']}，待转写 {counts['pending']}，"
         f"失败待处理 {counts['failed']}，文件不完整 {counts['partial']}。",
         "",
-        "标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。",
+        "标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。",
         "",
-        "| 视频 | 时长 | 状态 | 纯文本 | 时间戳文本 |",
-        "|---|---:|---|---|---|",
+        "| 视频 | 播放列表分类 | 时长 | 状态 | 纯文本 | 时间戳文本 |",
+        "|---|---|---:|---|---|---|",
     ]
     for item in records:
         title = str(item["title"]).replace("\\", "\\\\").replace("|", "\\|").replace("[", "\\[").replace("]", "\\]").replace("\n", " ")
@@ -80,7 +83,8 @@ def build_catalog(repo_root: Path) -> dict:
         duration_text = f"{int(float(duration)) // 60}:{int(float(duration)) % 60:02d}" if duration else "未知"
         plain_link = f"[打开]({item['plain_url']})" if item["plain_url"] else "—"
         ts_link = f"[打开]({item['timestamps_url']})" if item["timestamps_url"] else "—"
-        lines.append(f"| [{title}]({item['url']}) | {duration_text} | {names[item['transcript_status']]} | {plain_link} | {ts_link} |")
+        playlist = str(item.get("playlist_title") or "未分类").replace("|", "\\|").replace("\n", " ")
+        lines.append(f"| [{title}]({item['url']}) | {playlist} | {duration_text} | {names[item['transcript_status']]} | {plain_link} | {ts_link} |")
     (docs / "video-index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     return catalog
 
