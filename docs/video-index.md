@@ -2,12 +2,13 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiaodaodalang)。
 
-共 233 条：已转写 233，待转写 0，失败待处理 0，文件不完整 0。
+共 234 条：已转写 234，待转写 0，失败待处理 0，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
 | 视频 | 播放列表分类 | 时长 | 状态 | 纯文本 | 时间戳文本 |
 |---|---|---:|---|---|---|
+| [【小岛浪吹】一个视频讲清楚中国的税，让你了解中国的斩杀线](https://www.youtube.com/watch?v=r0H1u_lGv4Q) | 未分类 | 30:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_r0H1u_lGv4Q.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_r0H1u_lGv4Q.txt) |
 | [【小岛浪吹】中国最贵电车刹车板三踩三断，谈谈为什么尊界的刹车必断，以及这里面的资本对抗和中国地方政府之间的竞争](https://www.youtube.com/watch?v=ZePPpQLAhcU) | 未分类 | 25:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ZePPpQLAhcU.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ZePPpQLAhcU.txt) |
 | [【小岛浪吹】读透十五五，让中国的顶级智库每五年带我们炒一次酣畅淋漓的股票](https://www.youtube.com/watch?v=ZrsBByfOvxI) | 未分类 | 28:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_ZrsBByfOvxI.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_ZrsBByfOvxI.txt) |
 | [【小岛浪吹】中国未来五年会怎么走，详细分析近20年中国所有的五年计划（结构篇）](https://www.youtube.com/watch?v=jPSsn2IEoOA) | 未分类 | 31:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_jPSsn2IEoOA.txt) | [打开](https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_jPSsn2IEoOA.txt) |

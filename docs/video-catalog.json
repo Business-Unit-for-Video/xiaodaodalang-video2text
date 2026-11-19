@@ -3,14 +3,28 @@
   "channel_url": "https://www.youtube.com/@xiaodaodalang",
   "repository": "Business-Unit-for-Video/xiaodaodalang-video2text",
   "destination": "xiaodaodalang",
-  "generated_at": "2026-11-18 17:21:12",
+  "generated_at": "2026-11-19 07:38:24",
   "counts": {
-    "completed": 233,
+    "completed": 234,
     "pending": 0,
     "failed": 0,
     "partial": 0
   },
   "items": [
+    {
+      "id": "r0H1u_lGv4Q",
+      "title": "【小岛浪吹】一个视频讲清楚中国的税，让你了解中国的斩杀线",
+      "url": "https://www.youtube.com/watch?v=r0H1u_lGv4Q",
+      "duration": 1833,
+      "tab": "videos",
+      "playlist_id": null,
+      "playlist_title": null,
+      "playlist_index": null,
+      "availability": null,
+      "transcript_status": "completed",
+      "plain_url": "https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/plain/xiaodaodalang_r0H1u_lGv4Q.txt",
+      "timestamps_url": "https://github.com/Business-Unit-for-Video/xiaodaodalang-video2text/blob/main/youtube_channels/xiaodaodalang/with_timestamps/xiaodaodalang_r0H1u_lGv4Q.txt"
+    },
     {
       "id": "ZePPpQLAhcU",
       "title": "【小岛浪吹】中国最贵电车刹车板三踩三断，谈谈为什么尊界的刹车必断，以及这里面的资本对抗和中国地方政府之间的竞争",
