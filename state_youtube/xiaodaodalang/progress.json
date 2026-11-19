@@ -1,15 +1,11 @@
 {
   "status": "finished",
-  "note": "one video processed, no more pending",
+  "note": "all items completed",
   "destination": "xiaodaodalang",
   "channel_url": "https://www.youtube.com/@xiaodaodalang",
   "include_members": false,
   "queue_total": 234,
-  "queue_index": 1,
-  "updated_at": 1795074803,
-  "updated_at_readable": "2026-11-19 07:53:23",
-  "current_video_id": "r0H1u_lGv4Q",
-  "current_title": "【小岛浪吹】一个视频讲清楚中国的税，让你了解中国的斩杀线",
-  "current_url": "https://www.youtube.com/watch?v=r0H1u_lGv4Q",
-  "current_tab": "videos"
+  "queue_index": 234,
+  "updated_at": 1795109244,
+  "updated_at_readable": "2026-11-19 17:27:24"
 }
